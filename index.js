@@ -1,6 +1,14 @@
-const apiGet = require('./api.js');
+const apiGet = require('./api');
+
+const cities = require('./cities');
 
 const radius = 1000; // radius for searching travel attractions
+
+function sleep(ms) {
+    return new Promise((resolve) => {
+        setTimeout(resolve, ms);
+    });
+}
 
 // Print details of a particulat tourist attraction
 function printDetails(item) {
@@ -9,7 +17,9 @@ function printDetails(item) {
 }
 
 // Fetch travel attractions for a city with given latitude and longitude within 1000 m
-function getListOfAttractions(lon, lat) {
+async function getListOfAttractions(lon, lat) {
+    await sleep(2000);
+
     apiGet(
         "radius",
         `radius=${radius}&lon=${lon}&lat=${lat}&rate=2&format=json`
@@ -24,11 +34,14 @@ function getListOfAttractions(lon, lat) {
 
 // Fetch the count of travel attractions for a city with given latitude and longitude within 1000 m
 // and iteratively get the list of attractions in batches
-function getAttractions(lon, lat) {
+async function getAttractions(lon, lat) {
+    await sleep(2000);
+
     apiGet(
         "radius",
         `radius=${radius}&lon=${lon}&lat=${lat}&rate=2&format=count`
     ).then(function (data) {
+        console.log(data);
         const count = data.count; // Count of travel attractions in a city
 
         console.log('Number of travel attractions:', count);
@@ -39,7 +52,9 @@ function getAttractions(lon, lat) {
 }
 
 // Search for a particular city in the api
-function searchLocation(city) {
+async function searchLocation(city) {
+    await sleep(2000);
+
     apiGet("geoname", "name=" + city).then(function (data) {
         if (data.status === "OK") {
             console.log('Name:', data.name);
@@ -48,10 +63,10 @@ function searchLocation(city) {
             const lat = data.lat;
             getAttractions(lon, lat);
         }
-
     });
 }
 
-let city = 'London';
+cities.forEach(city => {
+    searchLocation(city);
+});
 
-searchLocation(city);

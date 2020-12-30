@@ -1,6 +1,6 @@
 const apiGet = require('./api.js');
 
-const pageLength = 10; // number of objects per page
+const radius = 1000; // radius for searching travel attractions
 
 // Print details of a particulat tourist attraction
 function printDetails(item) {
@@ -9,13 +9,15 @@ function printDetails(item) {
 }
 
 // Fetch travel attractions for a city with given latitude and longitude within 1000 m
-function getListOfAttractions(lon, lat, offset) {
+function getListOfAttractions(lon, lat) {
     apiGet(
         "radius",
-        `radius=1000&limit=${pageLength}&offset=${offset}&lon=${lon}&lat=${lat}&rate=2&format=json`
+        `radius=${radius}&lon=${lon}&lat=${lat}&rate=2&format=json`
     ).then(function (data) {
         if (!data.error) {
             data.forEach(item => printDetails(item));
+        } else {
+            console.log('Error:', data.error);
         }
     });
 }
@@ -25,16 +27,14 @@ function getListOfAttractions(lon, lat, offset) {
 function getAttractions(lon, lat) {
     apiGet(
         "radius",
-        `radius=1000&lon=${lon}&lat=${lat}&rate=2&format=count`
+        `radius=${radius}&lon=${lon}&lat=${lat}&rate=2&format=count`
     ).then(function (data) {
         const count = data.count; // Count of travel attractions in a city
 
         console.log('Number of travel attractions:', count);
 
-        // Iteratively get list of travel attractions from specified offsets
-        for (let offset = 0; offset < count; offset += pageLength) {
-            getListOfAttractions(lon, lat, offset);
-        }
+        // Get list of travel attractions for specified latitude and longitude
+        getListOfAttractions(lon, lat);
     });
 }
 

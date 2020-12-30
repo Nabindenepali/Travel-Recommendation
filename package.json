@@ -1,0 +1,23 @@
+{
+  "name": "travel-attractions-recommendation",
+  "version": "1.0.0",
+  "description": "Travel attractions recommendation using knowledge graphs",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "travel",
+    "knowledge",
+    "graph",
+    "recommender",
+    "system"
+  ],
+  "author": "Nabin Paudyal",
+  "license": "ISC"
+}

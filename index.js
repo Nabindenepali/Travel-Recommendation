@@ -23,26 +23,58 @@ const runQuery = (query, params = {}) => new Promise(async (resolve, reject) => 
     });
 });
 
-// Print details of a particulat tourist attraction
-function saveAttraction(item) {
-    const query = 'CREATE (a:Attraction {name: $name, category: $categories}) RETURN a';
-    const params = {name: item.name, categories: item.kinds};
+// Save a tourist attraction and create relationship between city and attraction node
+function saveAttraction(city, item) {
+    const query = 'CREATE (a:Attraction {name: $name}) RETURN a';
+    const params = {name: item.name};
 
     const request = runQuery(query, params);
 
     request.then(() => {
         console.log('Attraction node created: ', item.name);
+
+        const query = "MATCH (a:City),(b:Attraction) WHERE a.name = \"" + city + "\" AND b.name = \"" + item.name + "\"\n" +
+            "CREATE (a)-[r:HAS_LOCATION]->(b)" + "\n" +
+            "RETURN type(r)";
+
+        const request = runQuery(query);
+
+        request.then(() => {
+            console.log('Relationship created between city and attraction');
+        });
+
+
+        item.kinds.split(',').forEach(function (kind) {
+            const query = 'CREATE (a:Category {name: $name}) RETURN a';
+            const params = {name: kind};
+
+            const request = runQuery(query, params);
+
+            request.then(() => {
+                console.log('Category node created: ', kind);
+
+                const query = "MATCH (a:Attraction),(b:Category) WHERE a.name = \"" + item.name + "\" AND b.name = \"" + kind + "\"\n" +
+                    "CREATE (a)-[r:INSTANCE_OF]->(b)" + "\n" +
+                    "RETURN type(r)";
+
+                const request = runQuery(query);
+
+                request.then(() => {
+                    console.log('Relationship created between attraction and category');
+                });
+            });
+        });
     });
 }
 
 // Fetch travel attractions for a city with given latitude and longitude within 1000 m
-function getListOfAttractions(lon, lat) {
+function getListOfAttractions(city, lon, lat) {
     apiGet(
         "radius",
         `radius=${radius}&lon=${lon}&lat=${lat}&rate=2&format=json`
     ).then(function (data) {
         if (!data.error) {
-            data.forEach(item => saveAttraction(item));
+            data.forEach(item => saveAttraction(city, item));
         } else {
             console.log('Error:', data.error);
         }
@@ -51,7 +83,7 @@ function getListOfAttractions(lon, lat) {
 
 // Fetch the count of travel attractions for a city with given latitude and longitude within 1000 m
 // and iteratively get the list of attractions in batches
-function getAttractions(lon, lat) {
+function getAttractions(city, lon, lat) {
     apiGet(
         "radius",
         `radius=${radius}&lon=${lon}&lat=${lat}&rate=2&format=count`
@@ -61,7 +93,7 @@ function getAttractions(lon, lat) {
         console.log('Number of travel attractions: ', count);
 
         // Get list of travel attractions for specified latitude and longitude
-        getListOfAttractions(lon, lat);
+        getListOfAttractions(city, lon, lat);
     });
 }
 
@@ -70,16 +102,16 @@ function searchLocation(city) {
     apiGet("geoname", "name=" + city).then(function (data) {
         if (data.status === "OK") {
             const query = 'CREATE (a:City {name: $name, country: $country}) RETURN a';
-            const params = {name: data.name, country: data.country};
+            const params = {name: city, country: data.country};
 
             const request = runQuery(query, params);
 
             request.then(() => {
-                console.log('City node created: ', data.name);
+                console.log('City node created: ', city);
 
                 const lon = data.lon;
                 const lat = data.lat;
-                getAttractions(lon, lat);
+                getAttractions(city, lon, lat);
             });
         }
     });

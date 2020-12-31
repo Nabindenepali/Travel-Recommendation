@@ -46,7 +46,7 @@ function saveAttraction(city, item) {
         const request = runQuery(query);
 
         request.then(() => {
-            console.log('Relationship created between city and attraction');
+            console.log('Relationship created between city: ' + city + ' and attraction: ' + item.name);
         });
 
 
@@ -66,7 +66,7 @@ function saveAttraction(city, item) {
                 const request = runQuery(query);
 
                 request.then(() => {
-                    console.log('Relationship created between attraction and category');
+                    console.log('Relationship created between attraction: ' + item.name + ' and category: ' + kind);
                 });
             });
         });

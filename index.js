@@ -11,6 +11,12 @@ const cities = require('./cities');
 
 const radius = 1000; // radius for searching travel attractions
 
+function sleep(ms) {
+    return new Promise((resolve) => {
+        setTimeout(resolve, ms);
+    });
+}
+
 const runQuery = (query, params = {}) => new Promise(async (resolve, reject) => {
     const session = driver.session(); // <<-- session is only visible inside the promise
 
@@ -45,7 +51,7 @@ function saveAttraction(city, item) {
 
 
         item.kinds.split(',').forEach(function (kind) {
-            const query = 'CREATE (a:Category {name: $name}) RETURN a';
+            const query = 'MERGE (a:Category {name: $name}) RETURN a';
             const params = {name: kind};
 
             const request = runQuery(query, params);
@@ -68,10 +74,12 @@ function saveAttraction(city, item) {
 }
 
 // Fetch travel attractions for a city with given latitude and longitude within 1000 m
-function getListOfAttractions(city, lon, lat) {
+async function getListOfAttractions(city, lon, lat) {
+    await sleep(2000);
+
     apiGet(
         "radius",
-        `radius=${radius}&lon=${lon}&lat=${lat}&rate=2&format=json`
+        `radius=${radius}&lon=${lon}&lat=${lat}&rate=1&format=json`
     ).then(function (data) {
         if (!data.error) {
             data.forEach(item => saveAttraction(city, item));
@@ -83,10 +91,12 @@ function getListOfAttractions(city, lon, lat) {
 
 // Fetch the count of travel attractions for a city with given latitude and longitude within 1000 m
 // and iteratively get the list of attractions in batches
-function getAttractions(city, lon, lat) {
+async function getAttractions(city, lon, lat) {
+    await sleep(2000);
+
     apiGet(
         "radius",
-        `radius=${radius}&lon=${lon}&lat=${lat}&rate=2&format=count`
+        `radius=${radius}&lon=${lon}&lat=${lat}&rate=1&format=count`
     ).then(function (data) {
         const count = data.count; // Count of travel attractions in a city
 
@@ -98,7 +108,9 @@ function getAttractions(city, lon, lat) {
 }
 
 // Search for a particular city in the api
-function searchLocation(city) {
+async function searchLocation(city) {
+    await sleep(2000);
+
     apiGet("geoname", "name=" + city).then(function (data) {
         if (data.status === "OK") {
             const query = 'CREATE (a:City {name: $name, country: $country}) RETURN a';

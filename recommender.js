@@ -129,15 +129,42 @@ function getUser (id) {
     })
 }
 
+// A function to sort recommendations in the descending order of their scores
+function sortRecommendation (rec1, rec2) {
+    if (rec1.score > rec2.score) {
+        return -1;
+    }
+    if (rec1.score < rec2.score) {
+        return 1;
+    }
+    return 0;
+}
+
+// Returns sorted recommendations for the given user
+function getRecommendationsForUser (user) {
+    const recommendations = [];
+
+    attractions.forEach(function (attraction) {
+        const score = (popularity(attraction) + interest(user, attraction)).toFixed(3);
+        recommendations.push({
+            name: attraction.name,
+            score: score
+        });
+    });
+
+    return recommendations.sort(sortRecommendation);
+}
+
 // Generate recommendations for an user with specified id
 function generateRecommendations (userId) {
     const user = getUser(userId);
 
     console.log('Recommendations for: ', user.name);
 
-    attractions.forEach(function (attraction) {
-        const score = (popularity(attraction) + interest(user, attraction)).toFixed(3);
-        console.log('Attraction: ' + attraction.name + ', Score: ' + score);
+    const recommendations = getRecommendationsForUser(user);
+
+    recommendations.forEach(function (recommendation) {
+        console.log('Attraction: ' + recommendation.name + ', Score: ' + recommendation.score);
     });
 }
 

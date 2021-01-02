@@ -1,3 +1,12 @@
+const categories = [
+    'park',
+    'historic_district',
+    'structure',
+    'temple',
+    'cathedral',
+    'fortification'
+];
+
 const cityTypes = [
     {
         id: 1,
@@ -402,6 +411,7 @@ const attractions = [
 ];
 
 module.exports = {
+    categories: categories,
     cityTypes: cityTypes,
     visitsToAttractions: visitsToAttractions,
     userVisitsByCategory: userVisitsByCategory,

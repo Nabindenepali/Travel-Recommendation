@@ -7,27 +7,27 @@
         "city_id": 1,
         "visits": [
           {
-            "category": "park",
+            "category": "gardens_and_parks",
             "count": 20
           },
           {
-            "category": "historic_district",
+            "category": "historic_districts",
             "count": 15
           },
           {
-            "category": "structure",
+            "category": "other_buildings_and_structures",
             "count": 25
           },
           {
-            "category": "temple",
+            "category": "other_temples",
             "count": 30
           },
           {
-            "category": "cathedral",
+            "category": "cathedrals",
             "count": 20
           },
           {
-            "category": "fortification",
+            "category": "fortifications",
             "count": 15
           }
         ]
@@ -36,27 +36,27 @@
         "city_id": 2,
         "visits": [
           {
-            "category": "park",
+            "category": "gardens_and_parks",
             "count": 25
           },
           {
-            "category": "historic_district",
+            "category": "historic_districts",
             "count": 20
           },
           {
-            "category": "structure",
+            "category": "other_buildings_and_structures",
             "count": 30
           },
           {
-            "category": "temple",
+            "category": "other_temples",
             "count": 35
           },
           {
-            "category": "cathedral",
+            "category": "cathedrals",
             "count": 25
           },
           {
-            "category": "fortification",
+            "category": "fortifications",
             "count": 10
           }
         ]
@@ -65,27 +65,27 @@
         "city_id": 3,
         "visits": [
           {
-            "category": "park",
+            "category": "gardens_and_parks",
             "count": 25
           },
           {
-            "category": "historic_district",
+            "category": "historic_districts",
             "count": 10
           },
           {
-            "category": "structure",
+            "category": "other_buildings_and_structures",
             "count": 30
           },
           {
-            "category": "temple",
+            "category": "other_temples",
             "count": 35
           },
           {
-            "category": "cathedral",
+            "category": "cathedrals",
             "count": 25
           },
           {
-            "category": "fortification",
+            "category": "fortifications",
             "count": 10
           }
         ]
@@ -94,27 +94,27 @@
         "city_id": 4,
         "visits": [
           {
-            "category": "park",
+            "category": "gardens_and_parks",
             "count": 40
           },
           {
-            "category": "historic_district",
+            "category": "historic_districts",
             "count": 10
           },
           {
-            "category": "structure",
+            "category": "other_buildings_and_structures",
             "count": 50
           },
           {
-            "category": "temple",
+            "category": "other_temples",
             "count": 60
           },
           {
-            "category": "cathedral",
+            "category": "cathedrals",
             "count": 15
           },
           {
-            "category": "fortification",
+            "category": "fortifications",
             "count": 30
           }
         ]
@@ -123,27 +123,27 @@
         "city_id": 5,
         "visits": [
           {
-            "category": "park",
+            "category": "gardens_and_parks",
             "count": 50
           },
           {
-            "category": "historic_district",
+            "category": "historic_districts",
             "count": 30
           },
           {
-            "category": "structure",
+            "category": "other_buildings_and_structures",
             "count": 50
           },
           {
-            "category": "temple",
+            "category": "other_temples",
             "count": 45
           },
           {
-            "category": "cathedral",
+            "category": "cathedrals",
             "count": 40
           },
           {
-            "category": "fortification",
+            "category": "fortifications",
             "count": 20
           }
         ]

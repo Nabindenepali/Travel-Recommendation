@@ -23,7 +23,11 @@ function getCountForCategory (categories, categoryName) {
 // Return tf value
 function getTermFrequency (city, category) {
     const typesForCity = getTypesForCity(city);
-    const countForType = getCountForCategory(typesForCity.categories, category).count;
+    let countForType = 0;
+    const countForCategory = getCountForCategory(typesForCity.categories, category);
+    if (countForCategory) {
+        countForType = countForCategory.count;
+    }
     const maxCount = Math.max(...typesForCity.categories.map(category => category.count));
     return countForType / maxCount;
 }
@@ -58,7 +62,11 @@ function getVisitCountForCategory (city, category) {
 
 // Get interest score for a user in a city for a category
 function getInterestScoreForCity (city, category) {
-    const visitToCategory = getVisitCountForCategory(city, category).count;
+    let visitToCategory = 0;
+    const categoryVisit = getVisitCountForCategory(city, category);
+    if (categoryVisit) {
+        visitToCategory = categoryVisit.count;
+    }
     const totalVisits = utils.getSum(city.visits.map(visit => visit.count));
     const weightScore = getWeightScore(city, category);
     return (visitToCategory * weightScore) / totalVisits;

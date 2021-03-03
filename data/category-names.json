@@ -1,8 +1,8 @@
 [
-  "park",
-  "historic_district",
-  "structure",
-  "temple",
-  "cathedral",
-  "fortification"
+  "gardens_and_parks",
+  "historic_districts",
+  "other_buildings_and_structures",
+  "other_temples",
+  "cathedrals",
+  "fortifications"
 ]

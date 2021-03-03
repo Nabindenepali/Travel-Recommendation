@@ -2,12 +2,12 @@ const cities = [
     'London',
     'Paris',
     'Berlin',
-    'Amsterdam',
+    // 'Amsterdam',
     'Rome',
     'Florence',
     'Barcelona',
     'Prague',
-    'Zurich',
+    // 'Zurich',
     'Athens',
     'New York',
     'Tokyo',
@@ -41,14 +41,14 @@ const cities = [
     'Auckland',
     'Mumbai',
     'Dubai',
-    'Munich',
+    // 'Munich',
     'Hong Kong',
     'Qatar',
     'Seattle',
     'Oslo',
     'Bath',
-    'Vienna',
-    'Madrid'
+    // 'Vienna',
+    // 'Madrid'
 ];
 
 module.exports = cities;

@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "name": "Michael",
+    "cities": [
+      {
+        "city_id": 1,
+        "visits": [
+          {
+            "category": "park",
+            "count": 20
+          },
+          {
+            "category": "historic_district",
+            "count": 15
+          },
+          {
+            "category": "structure",
+            "count": 25
+          },
+          {
+            "category": "temple",
+            "count": 30
+          },
+          {
+            "category": "cathedral",
+            "count": 20
+          },
+          {
+            "category": "fortification",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "city_id": 2,
+        "visits": [
+          {
+            "category": "park",
+            "count": 25
+          },
+          {
+            "category": "historic_district",
+            "count": 20
+          },
+          {
+            "category": "structure",
+            "count": 30
+          },
+          {
+            "category": "temple",
+            "count": 35
+          },
+          {
+            "category": "cathedral",
+            "count": 25
+          },
+          {
+            "category": "fortification",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "city_id": 3,
+        "visits": [
+          {
+            "category": "park",
+            "count": 25
+          },
+          {
+            "category": "historic_district",
+            "count": 10
+          },
+          {
+            "category": "structure",
+            "count": 30
+          },
+          {
+            "category": "temple",
+            "count": 35
+          },
+          {
+            "category": "cathedral",
+            "count": 25
+          },
+          {
+            "category": "fortification",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "city_id": 4,
+        "visits": [
+          {
+            "category": "park",
+            "count": 40
+          },
+          {
+            "category": "historic_district",
+            "count": 10
+          },
+          {
+            "category": "structure",
+            "count": 50
+          },
+          {
+            "category": "temple",
+            "count": 60
+          },
+          {
+            "category": "cathedral",
+            "count": 15
+          },
+          {
+            "category": "fortification",
+            "count": 30
+          }
+        ]
+      },
+      {
+        "city_id": 5,
+        "visits": [
+          {
+            "category": "park",
+            "count": 50
+          },
+          {
+            "category": "historic_district",
+            "count": 30
+          },
+          {
+            "category": "structure",
+            "count": 50
+          },
+          {
+            "category": "temple",
+            "count": 45
+          },
+          {
+            "category": "cathedral",
+            "count": 40
+          },
+          {
+            "category": "fortification",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "city": "London",
+    "categories": [
+      {
+        "category": "park",
+        "count": 10
+      },
+      {
+        "category": "historic_district",
+        "count": 5
+      },
+      {
+        "category": "structure",
+        "count": 5
+      },
+      {
+        "category": "temple",
+        "count": 10
+      },
+      {
+        "category": "cathedral",
+        "count": 10
+      },
+      {
+        "category": "fortification",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "city": "Rome",
+    "categories": [
+      {
+        "category": "park",
+        "count": 12
+      },
+      {
+        "category": "historic_district",
+        "count": 4
+      },
+      {
+        "category": "structure",
+        "count": 8
+      },
+      {
+        "category": "temple",
+        "count": 12
+      },
+      {
+        "category": "cathedral",
+        "count": 5
+      },
+      {
+        "category": "fortification",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "city": "Barcelona",
+    "categories": [
+      {
+        "category": "park",
+        "count": 15
+      },
+      {
+        "category": "historic_district",
+        "count": 5
+      },
+      {
+        "category": "structure",
+        "count": 2
+      },
+      {
+        "category": "temple",
+        "count": 5
+      },
+      {
+        "category": "cathedral",
+        "count": 5
+      },
+      {
+        "category": "fortification",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "city": "Tokyo",
+    "categories": [
+      {
+        "category": "park",
+        "count": 20
+      },
+      {
+        "category": "historic_district",
+        "count": 5
+      },
+      {
+        "category": "structure",
+        "count": 10
+      },
+      {
+        "category": "temple",
+        "count": 5
+      },
+      {
+        "category": "cathedral",
+        "count": 8
+      },
+      {
+        "category": "fortification",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "city": "Paris",
+    "categories": [
+      {
+        "category": "park",
+        "count": 20
+      },
+      {
+        "category": "historic_district",
+        "count": 10
+      },
+      {
+        "category": "structure",
+        "count": 10
+      },
+      {
+        "category": "temple",
+        "count": 5
+      },
+      {
+        "category": "cathedral",
+        "count": 15
+      },
+      {
+        "category": "fortification",
+        "count": 2
+      }
+    ]
+  }
+]

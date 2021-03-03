@@ -1,12 +1,10 @@
-const data = require('./data');
-
 const utils = require('./utils');
 
-const cityTypes = data.cityTypes;
-const categoryNames = data.categories;
-const attractions = data.attractions;
-const users = data.userVisitsByCategory;
-const visits = data.visitsToAttractions;
+const cityTypes = require('./data/city-types');
+const categoryNames = require('./data/category-names');
+const attractions = require('./data/attractions');
+const users = require('./data/user-visits-by-category');
+const visits = require('./data/visits-to-attractions');
 
 // Returns the object of counts of types for a city
 function getTypesForCity (city) {
@@ -80,7 +78,6 @@ function getInterestScore (user, category) {
     var I = 0, Imin = 0, Imax = 0;
     categoryNames.forEach(function (categoryName) {
         const interest = getInterestScoreForCategory(user, categoryName);
-        // console.log('in', interest)
         if (categoryName === category) {
             I = interest;
         }

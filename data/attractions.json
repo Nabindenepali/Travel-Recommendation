@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "LaFayette Park",
+    "categories": ["park", "historic_district"]
+  },
+  {
+    "id": 2,
+    "name": "Academy Park",
+    "categories": ["park"]
+  },
+  {
+    "id": 3,
+    "name": "Albany City School District",
+    "categories": ["structure"]
+  },
+  {
+    "id": 4,
+    "name": "New York State Capitol Building",
+    "categories": ["structure"]
+  },
+  {
+    "id": 5,
+    "name": "Albany City Hall",
+    "categories": ["structure"]
+  },
+  {
+    "id": 6,
+    "name": "The Roman Catholic Diocese of Albany",
+    "categories": ["temple"]
+  },
+  {
+    "id": 7,
+    "name": "New York State Court of Appeals",
+    "categories": ["structure"]
+  },
+  {
+    "id": 8,
+    "name": "The New York State Education Building",
+    "categories": ["structure"]
+  },
+  {
+    "id": 9,
+    "name": "Cathedral of All Saints",
+    "categories": ["cathedral"]
+  },
+  {
+    "id": 10,
+    "name": "Fort Frederick",
+    "categories": ["fortification"]
+  }
+]

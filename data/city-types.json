@@ -4,148 +4,8667 @@
     "city": "London",
     "categories": [
       {
-        "category": "park",
+        "category": "interesting_places",
+        "count": 3044
+      },
+      {
+        "category": "historic_architecture",
+        "count": 359
+      },
+      {
+        "category": "architecture",
+        "count": 722
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 269
+      },
+      {
+        "category": "historic_object",
+        "count": 7
+      },
+      {
+        "category": "other",
+        "count": 31
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 12
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 74
+      },
+      {
+        "category": "historic",
+        "count": 168
+      },
+      {
+        "category": "monuments",
+        "count": 74
+      },
+      {
+        "category": "urban_environment",
+        "count": 976
+      },
+      {
+        "category": "sculptures",
+        "count": 948
+      },
+      {
+        "category": "cultural",
+        "count": 1162
+      },
+      {
+        "category": "railway_stations",
+        "count": 18
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 18
+      },
+      {
+        "category": "other_theatres",
+        "count": 117
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 176
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 41
+      },
+      {
+        "category": "restaurants",
+        "count": 13
+      },
+      {
+        "category": "foods",
+        "count": 39
+      },
+      {
+        "category": "war_memorials",
+        "count": 7
+      },
+      {
+        "category": "burial_places",
+        "count": 27
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 84
+      },
+      {
+        "category": "cinemas",
+        "count": 48
+      },
+      {
+        "category": "adult",
         "count": 10
       },
       {
-        "category": "historic_district",
-        "count": 5
+        "category": "bars",
+        "count": 11
       },
       {
-        "category": "structure",
-        "count": 5
-      },
-      {
-        "category": "temple",
+        "category": "nightclubs",
         "count": 10
       },
       {
-        "category": "cathedral",
+        "category": "music_venues",
         "count": 10
       },
       {
-        "category": "fortification",
+        "category": "other_burial_places",
+        "count": 20
+      },
+      {
+        "category": "other_technology_museums",
+        "count": 1
+      },
+      {
+        "category": "museums_of_science_and_technology",
+        "count": 1
+      },
+      {
+        "category": "museums",
+        "count": 14
+      },
+      {
+        "category": "casino",
+        "count": 2
+      },
+      {
+        "category": "squares",
+        "count": 20
+      },
+      {
+        "category": "other_bridges",
+        "count": 2
+      },
+      {
+        "category": "bridges",
+        "count": 2
+      },
+      {
+        "category": "installation",
+        "count": 3
+      },
+      {
+        "category": "other_museums",
+        "count": 4
+      },
+      {
+        "category": "tourist_object",
         "count": 5
+      },
+      {
+        "category": "catholic_churches",
+        "count": 1
+      },
+      {
+        "category": "religion",
+        "count": 8
+      },
+      {
+        "category": "churches",
+        "count": 6
+      },
+      {
+        "category": "palaces",
+        "count": 3
+      },
+      {
+        "category": "pubs",
+        "count": 34
+      },
+      {
+        "category": "manor_houses",
+        "count": 1
+      },
+      {
+        "category": "other_temples",
+        "count": 2
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 4
+      },
+      {
+        "category": "art_galleries",
+        "count": 8
+      },
+      {
+        "category": "fountains",
+        "count": 6
+      },
+      {
+        "category": "other_churches",
+        "count": 5
+      },
+      {
+        "category": "shops",
+        "count": 2
+      },
+      {
+        "category": "bakeries",
+        "count": 1
+      },
+      {
+        "category": "other_fortifications",
+        "count": 3
+      },
+      {
+        "category": "fortifications",
+        "count": 6
+      },
+      {
+        "category": "marketplaces",
+        "count": 1
+      },
+      {
+        "category": "defensive_walls",
+        "count": 3
+      },
+      {
+        "category": "accomodations",
+        "count": 1
+      },
+      {
+        "category": "other_hotels",
+        "count": 1
+      },
+      {
+        "category": "red_telephone_boxes",
+        "count": 19
+      },
+      {
+        "category": "opera_houses",
+        "count": 1
+      },
+      {
+        "category": "triumphal_archs",
+        "count": 1
+      },
+      {
+        "category": "historic_house_museums",
+        "count": 1
+      },
+      {
+        "category": "history_museums",
+        "count": 1
+      },
+      {
+        "category": "biographical_museums",
+        "count": 1
+      },
+      {
+        "category": "historic_districts",
+        "count": 1
+      },
+      {
+        "category": "historical_places",
+        "count": 1
       }
     ]
   },
   {
     "id": 2,
-    "city": "Rome",
+    "city": "Paris",
     "categories": [
       {
-        "category": "park",
+        "category": "interesting_places",
+        "count": 191934
+      },
+      {
+        "category": "urban_environment",
+        "count": 8728
+      },
+      {
+        "category": "wall_painting",
+        "count": 1
+      },
+      {
+        "category": "cultural",
+        "count": 8932
+      },
+      {
+        "category": "churches",
+        "count": 378
+      },
+      {
+        "category": "other_churches",
+        "count": 304
+      },
+      {
+        "category": "religion",
+        "count": 2167
+      },
+      {
+        "category": "architecture",
+        "count": 24498
+      },
+      {
+        "category": "historic_architecture",
+        "count": 2363
+      },
+      {
+        "category": "defensive_walls",
+        "count": 4213
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 102
+      },
+      {
+        "category": "fortifications",
+        "count": 4216
+      },
+      {
+        "category": "historic",
+        "count": 148690
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 2260
+      },
+      {
+        "category": "other_burial_places",
+        "count": 82
+      },
+      {
+        "category": "monuments",
+        "count": 69786
+      },
+      {
+        "category": "burial_places",
+        "count": 84
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 69787
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 2186
+      },
+      {
+        "category": "other",
+        "count": 2217
+      },
+      {
+        "category": "historic_object",
+        "count": 2183
+      },
+      {
+        "category": "installation",
+        "count": 1225
+      },
+      {
+        "category": "art_galleries",
+        "count": 14
+      },
+      {
+        "category": "museums",
+        "count": 29
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 253
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 176
+      },
+      {
+        "category": "other_theatres",
+        "count": 59
+      },
+      {
+        "category": "other_hotels",
+        "count": 2
+      },
+      {
+        "category": "accomodations",
+        "count": 2
+      },
+      {
+        "category": "other_fortifications",
+        "count": 1
+      },
+      {
+        "category": "other_museums",
         "count": 12
       },
       {
-        "category": "historic_district",
+        "category": "cinemas",
+        "count": 107
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 262
+      },
+      {
+        "category": "foods",
+        "count": 258
+      },
+      {
+        "category": "restaurants",
+        "count": 254
+      },
+      {
+        "category": "monasteries",
+        "count": 1783
+      },
+      {
+        "category": "sculptures",
+        "count": 37
+      },
+      {
+        "category": "other_temples",
         "count": 4
       },
       {
-        "category": "structure",
+        "category": "bridges",
+        "count": 9884
+      },
+      {
+        "category": "stone_bridges",
+        "count": 40
+      },
+      {
+        "category": "other_bridges",
+        "count": 9844
+      },
+      {
+        "category": "science_museums",
+        "count": 2
+      },
+      {
+        "category": "fountains",
+        "count": 7222
+      },
+      {
+        "category": "catholic_churches",
+        "count": 74
+      },
+      {
+        "category": "tourist_object",
+        "count": 3
+      },
+      {
+        "category": "national_museums",
+        "count": 1
+      },
+      {
+        "category": "factories",
+        "count": 1
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 74
+      },
+      {
+        "category": "manor_houses",
+        "count": 2
+      },
+      {
+        "category": "pools",
+        "count": 2
+      },
+      {
+        "category": "sport",
+        "count": 2
+      },
+      {
+        "category": "railway_stations",
+        "count": 72
+      },
+      {
+        "category": "fortified_towers",
+        "count": 4212
+      },
+      {
+        "category": "sundials",
+        "count": 3
+      },
+      {
+        "category": "squares",
+        "count": 1
+      },
+      {
+        "category": "bakeries",
+        "count": 4
+      },
+      {
+        "category": "shops",
+        "count": 4
+      },
+      {
+        "category": "cemeteries",
+        "count": 1
+      },
+      {
+        "category": "war_memorials",
+        "count": 1
+      },
+      {
+        "category": "archaeology",
+        "count": 6
+      },
+      {
+        "category": "settlements",
+        "count": 1
+      },
+      {
+        "category": "music_venues",
+        "count": 10
+      },
+      {
+        "category": "opera_houses",
         "count": 8
       },
       {
-        "category": "temple",
-        "count": 12
+        "category": "towers",
+        "count": 8
       },
       {
-        "category": "cathedral",
-        "count": 5
+        "category": "other_towers",
+        "count": 6
       },
       {
-        "category": "fortification",
+        "category": "historical_places",
+        "count": 339
+      },
+      {
+        "category": "battlefields",
+        "count": 339
+      },
+      {
+        "category": "castles",
         "count": 2
+      },
+      {
+        "category": "palaces",
+        "count": 1
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 4
+      },
+      {
+        "category": "view_points",
+        "count": 28
+      },
+      {
+        "category": "bars",
+        "count": 4
+      },
+      {
+        "category": "adult",
+        "count": 2
+      },
+      {
+        "category": "nightclubs",
+        "count": 2
+      },
+      {
+        "category": "clock_towers",
+        "count": 1
+      },
+      {
+        "category": "cathedrals",
+        "count": 6
+      },
+      {
+        "category": "milestones",
+        "count": 1
       }
     ]
   },
   {
     "id": 3,
-    "city": "Barcelona",
+    "city": "Berlin",
     "categories": [
       {
-        "category": "park",
+        "category": "interesting_places",
+        "count": 1460
+      },
+      {
+        "category": "cultural",
+        "count": 290
+      },
+      {
+        "category": "urban_environment",
+        "count": 178
+      },
+      {
+        "category": "fountains",
+        "count": 11
+      },
+      {
+        "category": "sculptures",
+        "count": 121
+      },
+      {
+        "category": "historic_architecture",
+        "count": 183
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 101
+      },
+      {
+        "category": "accomodations",
+        "count": 4
+      },
+      {
+        "category": "other_hotels",
+        "count": 4
+      },
+      {
+        "category": "architecture",
+        "count": 566
+      },
+      {
+        "category": "other_burial_places",
+        "count": 48
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 101
+      },
+      {
+        "category": "historic",
+        "count": 396
+      },
+      {
+        "category": "monuments",
+        "count": 101
+      },
+      {
+        "category": "burial_places",
+        "count": 54
+      },
+      {
+        "category": "other_museums",
+        "count": 21
+      },
+      {
+        "category": "museums",
+        "count": 44
+      },
+      {
+        "category": "factories",
+        "count": 1
+      },
+      {
+        "category": "mints",
+        "count": 1
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 52
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 24
+      },
+      {
+        "category": "foods",
+        "count": 24
+      },
+      {
+        "category": "restaurants",
+        "count": 19
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 76
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 69
+      },
+      {
+        "category": "cinemas",
+        "count": 40
+      },
+      {
+        "category": "squares",
+        "count": 21
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 21
+      },
+      {
+        "category": "history_museums",
+        "count": 6
+      },
+      {
+        "category": "archaeological_museums",
+        "count": 4
+      },
+      {
+        "category": "religion",
+        "count": 42
+      },
+      {
+        "category": "monasteries",
+        "count": 1
+      },
+      {
+        "category": "natural_monuments",
+        "count": 4
+      },
+      {
+        "category": "natural",
+        "count": 4
+      },
+      {
+        "category": "nature_reserves",
+        "count": 4
+      },
+      {
+        "category": "historical_places",
+        "count": 5
+      },
+      {
+        "category": "historic_districts",
+        "count": 3
+      },
+      {
+        "category": "churches",
+        "count": 33
+      },
+      {
+        "category": "other_churches",
+        "count": 33
+      },
+      {
+        "category": "other_temples",
+        "count": 4
+      },
+      {
+        "category": "installation",
+        "count": 6
+      },
+      {
+        "category": "art_galleries",
         "count": 15
       },
       {
-        "category": "historic_district",
-        "count": 5
+        "category": "defensive_walls",
+        "count": 83
       },
       {
-        "category": "structure",
+        "category": "fortifications",
+        "count": 84
+      },
+      {
+        "category": "palaces",
+        "count": 4
+      },
+      {
+        "category": "cathedrals",
+        "count": 3
+      },
+      {
+        "category": "bridges",
+        "count": 98
+      },
+      {
+        "category": "other_bridges",
+        "count": 17
+      },
+      {
+        "category": "other",
+        "count": 6
+      },
+      {
+        "category": "historic_object",
         "count": 2
       },
       {
-        "category": "temple",
+        "category": "unclassified_objects",
         "count": 5
       },
       {
-        "category": "cathedral",
-        "count": 5
+        "category": "manor_houses",
+        "count": 1
       },
       {
-        "category": "fortification",
+        "category": "railway_stations",
+        "count": 48
+      },
+      {
+        "category": "cemeteries",
+        "count": 6
+      },
+      {
+        "category": "footbridges",
+        "count": 81
+      },
+      {
+        "category": "bars",
+        "count": 3
+      },
+      {
+        "category": "tourist_object",
+        "count": 3
+      },
+      {
+        "category": "cafes",
+        "count": 1
+      },
+      {
+        "category": "biergartens",
+        "count": 3
+      },
+      {
+        "category": "wineries",
+        "count": 3
+      },
+      {
+        "category": "music_venues",
         "count": 2
+      },
+      {
+        "category": "other_fortifications",
+        "count": 1
+      },
+      {
+        "category": "other_theatres",
+        "count": 26
+      },
+      {
+        "category": "military_museums",
+        "count": 1
+      },
+      {
+        "category": "battlefields",
+        "count": 1
+      },
+      {
+        "category": "circuses",
+        "count": 1
+      },
+      {
+        "category": "zoos",
+        "count": 1
+      },
+      {
+        "category": "aquariums",
+        "count": 2
+      },
+      {
+        "category": "historic_settlements",
+        "count": 1
+      },
+      {
+        "category": "other_buildings",
+        "count": 1
+      },
+      {
+        "category": "synagogues",
+        "count": 1
+      },
+      {
+        "category": "skyscrapers",
+        "count": 1
+      },
+      {
+        "category": "wall_painting",
+        "count": 2
+      },
+      {
+        "category": "clock_towers",
+        "count": 1
+      },
+      {
+        "category": "towers",
+        "count": 8
+      },
+      {
+        "category": "observation_towers",
+        "count": 9
+      },
+      {
+        "category": "transmitter_towers",
+        "count": 1
+      },
+      {
+        "category": "nightclubs",
+        "count": 1
+      },
+      {
+        "category": "adult",
+        "count": 1
+      },
+      {
+        "category": "view_points",
+        "count": 1
       }
     ]
   },
   {
     "id": 4,
-    "city": "Tokyo",
+    "city": "Rome",
     "categories": [
       {
-        "category": "park",
-        "count": 20
+        "category": "catholic_churches",
+        "count": 15
       },
       {
-        "category": "historic_district",
-        "count": 5
+        "category": "churches",
+        "count": 34
       },
       {
-        "category": "structure",
+        "category": "religion",
+        "count": 43
+      },
+      {
+        "category": "interesting_places",
+        "count": 102996
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 94616
+      },
+      {
+        "category": "defensive_walls",
+        "count": 50745
+      },
+      {
+        "category": "historic",
+        "count": 101562
+      },
+      {
+        "category": "archaeology",
+        "count": 94616
+      },
+      {
+        "category": "fortifications",
+        "count": 50745
+      },
+      {
+        "category": "theatres_and_entertainments",
         "count": 10
       },
       {
-        "category": "temple",
+        "category": "other_theatres",
         "count": 5
       },
       {
-        "category": "cathedral",
+        "category": "cultural",
+        "count": 27
+      },
+      {
+        "category": "other_temples",
+        "count": 9
+      },
+      {
+        "category": "triumphal_archs",
+        "count": 2
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 7
+      },
+      {
+        "category": "monuments",
+        "count": 7
+      },
+      {
+        "category": "architecture",
+        "count": 1350
+      },
+      {
+        "category": "historic_architecture",
+        "count": 657
+      },
+      {
+        "category": "palaces",
+        "count": 6
+      },
+      {
+        "category": "aquariums",
+        "count": 1
+      },
+      {
+        "category": "museums",
+        "count": 10
+      },
+      {
+        "category": "other_churches",
+        "count": 19
+      },
+      {
+        "category": "bridges",
+        "count": 19
+      },
+      {
+        "category": "aqueducts",
+        "count": 2
+      },
+      {
+        "category": "cathedrals",
+        "count": 1
+      },
+      {
+        "category": "national_museums",
+        "count": 1
+      },
+      {
+        "category": "sculptures",
+        "count": 3
+      },
+      {
+        "category": "urban_environment",
+        "count": 7
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 644
+      },
+      {
+        "category": "installation",
+        "count": 2
+      },
+      {
+        "category": "music_venues",
+        "count": 2
+      },
+      {
+        "category": "monasteries",
+        "count": 1
+      },
+      {
+        "category": "natural",
+        "count": 1
+      },
+      {
+        "category": "nature_reserves",
+        "count": 1
+      },
+      {
+        "category": "natural_monuments",
+        "count": 1
+      },
+      {
+        "category": "other_museums",
         "count": 8
       },
       {
-        "category": "fortification",
+        "category": "other_bridges",
+        "count": 17
+      },
+      {
+        "category": "fountains",
+        "count": 2
+      },
+      {
+        "category": "cinemas",
+        "count": 3
+      },
+      {
+        "category": "manor_houses",
+        "count": 1
+      },
+      {
+        "category": "amphitheatres",
+        "count": 1
+      },
+      {
+        "category": "mausoleums",
+        "count": 1
+      },
+      {
+        "category": "burial_places",
+        "count": 2
+      },
+      {
+        "category": "other",
+        "count": 1
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 1
+      },
+      {
+        "category": "historic_object",
+        "count": 1
+      },
+      {
+        "category": "bakeries",
+        "count": 2
+      },
+      {
+        "category": "shops",
+        "count": 2
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 4
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 3
+      },
+      {
+        "category": "other_burial_places",
+        "count": 1
+      },
+      {
+        "category": "foods",
+        "count": 2
+      },
+      {
+        "category": "restaurants",
         "count": 2
       }
     ]
   },
   {
     "id": 5,
-    "city": "Paris",
+    "city": "Florence",
     "categories": [
       {
-        "category": "park",
+        "category": "interesting_places",
+        "count": 664
+      },
+      {
+        "category": "architecture",
+        "count": 354
+      },
+      {
+        "category": "historic_architecture",
+        "count": 94
+      },
+      {
+        "category": "palaces",
+        "count": 87
+      },
+      {
+        "category": "monuments",
+        "count": 25
+      },
+      {
+        "category": "urban_environment",
+        "count": 23
+      },
+      {
+        "category": "cultural",
+        "count": 57
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 25
+      },
+      {
+        "category": "sculptures",
+        "count": 17
+      },
+      {
+        "category": "historic",
+        "count": 62
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 9
+      },
+      {
+        "category": "historic_object",
+        "count": 6
+      },
+      {
+        "category": "other",
+        "count": 10
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 16
+      },
+      {
+        "category": "other_theatres",
+        "count": 8
+      },
+      {
+        "category": "other_museums",
+        "count": 16
+      },
+      {
+        "category": "religion",
+        "count": 78
+      },
+      {
+        "category": "other_churches",
+        "count": 36
+      },
+      {
+        "category": "museums",
         "count": 20
       },
       {
-        "category": "historic_district",
-        "count": 10
+        "category": "churches",
+        "count": 58
       },
       {
-        "category": "structure",
-        "count": 10
+        "category": "burial_places",
+        "count": 3
       },
       {
-        "category": "temple",
-        "count": 5
+        "category": "other_burial_places",
+        "count": 3
       },
       {
-        "category": "cathedral",
+        "category": "cinemas",
+        "count": 6
+      },
+      {
+        "category": "tourist_object",
+        "count": 3
+      },
+      {
+        "category": "art_galleries",
+        "count": 4
+      },
+      {
+        "category": "other_temples",
         "count": 15
       },
       {
-        "category": "fortification",
+        "category": "music_venues",
+        "count": 1
+      },
+      {
+        "category": "fountains",
         "count": 2
+      },
+      {
+        "category": "catholic_churches",
+        "count": 21
+      },
+      {
+        "category": "restaurants",
+        "count": 10
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 10
+      },
+      {
+        "category": "foods",
+        "count": 10
+      },
+      {
+        "category": "installation",
+        "count": 5
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 2
+      },
+      {
+        "category": "other_bridges",
+        "count": 82
+      },
+      {
+        "category": "bridges",
+        "count": 82
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 2
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 5
+      },
+      {
+        "category": "monasteries",
+        "count": 5
+      },
+      {
+        "category": "sundials",
+        "count": 1
+      },
+      {
+        "category": "opera_houses",
+        "count": 1
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 2
+      },
+      {
+        "category": "railway_stations",
+        "count": 2
+      },
+      {
+        "category": "eastern_orthodox_churches",
+        "count": 1
+      },
+      {
+        "category": "fortifications",
+        "count": 6
+      },
+      {
+        "category": "fortified_towers",
+        "count": 2
+      },
+      {
+        "category": "other_towers",
+        "count": 2
+      },
+      {
+        "category": "towers",
+        "count": 4
+      },
+      {
+        "category": "accomodations",
+        "count": 3
+      },
+      {
+        "category": "other_hotels",
+        "count": 3
+      },
+      {
+        "category": "defensive_walls",
+        "count": 3
+      },
+      {
+        "category": "bell_towers",
+        "count": 1
+      },
+      {
+        "category": "other_fortifications",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "city": "Barcelona",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 534
+      },
+      {
+        "category": "other_churches",
+        "count": 8
+      },
+      {
+        "category": "religion",
+        "count": 17
+      },
+      {
+        "category": "churches",
+        "count": 12
+      },
+      {
+        "category": "sculptures",
+        "count": 34
+      },
+      {
+        "category": "cultural",
+        "count": 159
+      },
+      {
+        "category": "urban_environment",
+        "count": 63
+      },
+      {
+        "category": "catholic_churches",
+        "count": 4
+      },
+      {
+        "category": "architecture",
+        "count": 146
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 69
+      },
+      {
+        "category": "historic_architecture",
+        "count": 73
+      },
+      {
+        "category": "cinemas",
+        "count": 41
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 64
+      },
+      {
+        "category": "wineries",
+        "count": 1
+      },
+      {
+        "category": "installation",
+        "count": 7
+      },
+      {
+        "category": "other_theatres",
+        "count": 23
+      },
+      {
+        "category": "fountains",
+        "count": 18
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 3
+      },
+      {
+        "category": "squares",
+        "count": 2
+      },
+      {
+        "category": "other_temples",
+        "count": 4
+      },
+      {
+        "category": "art_galleries",
+        "count": 25
+      },
+      {
+        "category": "museums",
+        "count": 32
+      },
+      {
+        "category": "other",
+        "count": 7
+      },
+      {
+        "category": "tourist_object",
+        "count": 7
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 7
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 16
+      },
+      {
+        "category": "historic",
+        "count": 34
+      },
+      {
+        "category": "monuments",
+        "count": 16
+      },
+      {
+        "category": "palaces",
+        "count": 3
+      },
+      {
+        "category": "historical_places",
+        "count": 1
+      },
+      {
+        "category": "battlefields",
+        "count": 1
+      },
+      {
+        "category": "other_museums",
+        "count": 6
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 4
+      },
+      {
+        "category": "bakeries",
+        "count": 1
+      },
+      {
+        "category": "shops",
+        "count": 1
+      },
+      {
+        "category": "buddhist_temples",
+        "count": 1
+      },
+      {
+        "category": "foods",
+        "count": 3
+      },
+      {
+        "category": "restaurants",
+        "count": 3
+      },
+      {
+        "category": "monasteries",
+        "count": 1
+      },
+      {
+        "category": "history_museums",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "city": "Prague",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 246954
+      },
+      {
+        "category": "cultural",
+        "count": 11240
+      },
+      {
+        "category": "cinemas",
+        "count": 2
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 22
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 2716
+      },
+      {
+        "category": "historic_architecture",
+        "count": 2766
+      },
+      {
+        "category": "architecture",
+        "count": 31014
+      },
+      {
+        "category": "historic",
+        "count": 193074
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 91024
+      },
+      {
+        "category": "monuments",
+        "count": 91024
+      },
+      {
+        "category": "foods",
+        "count": 19
+      },
+      {
+        "category": "other_temples",
+        "count": 3
+      },
+      {
+        "category": "restaurants",
+        "count": 18
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 39
+      },
+      {
+        "category": "religion",
+        "count": 2336
+      },
+      {
+        "category": "palaces",
+        "count": 39
+      },
+      {
+        "category": "sculptures",
+        "count": 61
+      },
+      {
+        "category": "urban_environment",
+        "count": 11174
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 12
+      },
+      {
+        "category": "other_churches",
+        "count": 11
+      },
+      {
+        "category": "churches",
+        "count": 14
+      },
+      {
+        "category": "burial_places",
+        "count": 46
+      },
+      {
+        "category": "other_burial_places",
+        "count": 45
+      },
+      {
+        "category": "concert_halls",
+        "count": 2
+      },
+      {
+        "category": "art_galleries",
+        "count": 16
+      },
+      {
+        "category": "museums",
+        "count": 52
+      },
+      {
+        "category": "synagogues",
+        "count": 10
+      },
+      {
+        "category": "defensive_walls",
+        "count": 5501
+      },
+      {
+        "category": "fortifications",
+        "count": 5501
+      },
+      {
+        "category": "cemeteries",
+        "count": 1
+      },
+      {
+        "category": "other_theatres",
+        "count": 15
+      },
+      {
+        "category": "other_museums",
+        "count": 36
+      },
+      {
+        "category": "fountains",
+        "count": 9404
+      },
+      {
+        "category": "view_points",
+        "count": 2
+      },
+      {
+        "category": "other",
+        "count": 2694
+      },
+      {
+        "category": "squares",
+        "count": 17
+      },
+      {
+        "category": "bank",
+        "count": 19
+      },
+      {
+        "category": "banks",
+        "count": 19
+      },
+      {
+        "category": "other_towers",
+        "count": 4
+      },
+      {
+        "category": "towers",
+        "count": 10
+      },
+      {
+        "category": "marketplaces",
+        "count": 1
+      },
+      {
+        "category": "shops",
+        "count": 1
+      },
+      {
+        "category": "historic_districts",
+        "count": 8
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 2692
+      },
+      {
+        "category": "historic_object",
+        "count": 2688
+      },
+      {
+        "category": "historical_places",
+        "count": 9
+      },
+      {
+        "category": "tourist_object",
+        "count": 4
+      },
+      {
+        "category": "cathedrals",
+        "count": 1
+      },
+      {
+        "category": "bars",
+        "count": 1
+      },
+      {
+        "category": "adult",
+        "count": 1
+      },
+      {
+        "category": "music_venues",
+        "count": 1
+      },
+      {
+        "category": "nightclubs",
+        "count": 1
+      },
+      {
+        "category": "observation_towers",
+        "count": 3
+      },
+      {
+        "category": "battlefields",
+        "count": 1
+      },
+      {
+        "category": "catholic_churches",
+        "count": 3
+      },
+      {
+        "category": "monasteries",
+        "count": 2309
+      },
+      {
+        "category": "atm",
+        "count": 1
+      },
+      {
+        "category": "pubs",
+        "count": 2
+      },
+      {
+        "category": "opera_houses",
+        "count": 1
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 283
+      },
+      {
+        "category": "puppetries",
+        "count": 1
+      },
+      {
+        "category": "fortified_towers",
+        "count": 5499
+      },
+      {
+        "category": "other_bridges",
+        "count": 12737
+      },
+      {
+        "category": "bridges",
+        "count": 12737
+      },
+      {
+        "category": "installation",
+        "count": 1410
+      },
+      {
+        "category": "bell_towers",
+        "count": 1
+      },
+      {
+        "category": "clock_towers",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "city": "Athens",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 1304
+      },
+      {
+        "category": "churches",
+        "count": 309
+      },
+      {
+        "category": "eastern_orthodox_churches",
+        "count": 40
+      },
+      {
+        "category": "squares",
+        "count": 298
+      },
+      {
+        "category": "cultural",
+        "count": 465
+      },
+      {
+        "category": "urban_environment",
+        "count": 354
+      },
+      {
+        "category": "religion",
+        "count": 340
+      },
+      {
+        "category": "cinemas",
+        "count": 11
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 83
+      },
+      {
+        "category": "other_churches",
+        "count": 269
+      },
+      {
+        "category": "other_temples",
+        "count": 27
+      },
+      {
+        "category": "synagogues",
+        "count": 1
+      },
+      {
+        "category": "other_museums",
+        "count": 21
+      },
+      {
+        "category": "museums",
+        "count": 28
+      },
+      {
+        "category": "historic_architecture",
+        "count": 84
+      },
+      {
+        "category": "architecture",
+        "count": 168
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 81
+      },
+      {
+        "category": "historic",
+        "count": 148
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 82
+      },
+      {
+        "category": "archaeology",
+        "count": 82
+      },
+      {
+        "category": "sculptures",
+        "count": 44
+      },
+      {
+        "category": "monuments",
+        "count": 31
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 31
+      },
+      {
+        "category": "other_theatres",
+        "count": 71
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 19
+      },
+      {
+        "category": "restaurants",
+        "count": 2
+      },
+      {
+        "category": "foods",
+        "count": 2
+      },
+      {
+        "category": "art_galleries",
+        "count": 5
+      },
+      {
+        "category": "mosques",
+        "count": 1
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 3
+      },
+      {
+        "category": "monasteries",
+        "count": 1
+      },
+      {
+        "category": "burial_places",
+        "count": 3
+      },
+      {
+        "category": "cemeteries",
+        "count": 2
+      },
+      {
+        "category": "installation",
+        "count": 6
+      },
+      {
+        "category": "archaeological_museums",
+        "count": 2
+      },
+      {
+        "category": "history_museums",
+        "count": 2
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 5
+      },
+      {
+        "category": "tourist_object",
+        "count": 5
+      },
+      {
+        "category": "other",
+        "count": 5
+      },
+      {
+        "category": "historical_places",
+        "count": 1
+      },
+      {
+        "category": "historic_districts",
+        "count": 1
+      },
+      {
+        "category": "other_burial_places",
+        "count": 1
+      },
+      {
+        "category": "wall_painting",
+        "count": 4
+      },
+      {
+        "category": "cathedrals",
+        "count": 2
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 2
+      },
+      {
+        "category": "bank",
+        "count": 17
+      },
+      {
+        "category": "banks",
+        "count": 17
+      },
+      {
+        "category": "concert_halls",
+        "count": 1
+      },
+      {
+        "category": "national_museums",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "city": "New York",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 382
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 46
+      },
+      {
+        "category": "historic",
+        "count": 108
+      },
+      {
+        "category": "monuments",
+        "count": 46
+      },
+      {
+        "category": "historic_districts",
+        "count": 7
+      },
+      {
+        "category": "historical_places",
+        "count": 7
+      },
+      {
+        "category": "architecture",
+        "count": 100
+      },
+      {
+        "category": "historic_architecture",
+        "count": 45
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 24
+      },
+      {
+        "category": "other_temples",
+        "count": 18
+      },
+      {
+        "category": "religion",
+        "count": 29
+      },
+      {
+        "category": "other",
+        "count": 9
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 8
+      },
+      {
+        "category": "tourist_object",
+        "count": 4
+      },
+      {
+        "category": "wineries",
+        "count": 1
+      },
+      {
+        "category": "pubs",
+        "count": 2
+      },
+      {
+        "category": "foods",
+        "count": 1
+      },
+      {
+        "category": "biergartens",
+        "count": 1
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 1
+      },
+      {
+        "category": "restaurants",
+        "count": 1
+      },
+      {
+        "category": "cultural",
+        "count": 72
+      },
+      {
+        "category": "urban_environment",
+        "count": 30
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 8
+      },
+      {
+        "category": "museums",
+        "count": 11
+      },
+      {
+        "category": "other_museums",
+        "count": 9
+      },
+      {
+        "category": "cinemas",
+        "count": 27
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 20
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 31
+      },
+      {
+        "category": "other_theatres",
+        "count": 4
+      },
+      {
+        "category": "skyscrapers",
+        "count": 5
+      },
+      {
+        "category": "churches",
+        "count": 9
+      },
+      {
+        "category": "other_churches",
+        "count": 8
+      },
+      {
+        "category": "sculptures",
+        "count": 4
+      },
+      {
+        "category": "adult",
+        "count": 3
+      },
+      {
+        "category": "casino",
+        "count": 3
+      },
+      {
+        "category": "concert_halls",
+        "count": 1
+      },
+      {
+        "category": "historic_object",
+        "count": 4
+      },
+      {
+        "category": "catholic_churches",
+        "count": 1
+      },
+      {
+        "category": "cathedrals",
+        "count": 3
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 6
+      },
+      {
+        "category": "railway_stations",
+        "count": 6
+      },
+      {
+        "category": "installation",
+        "count": 15
+      },
+      {
+        "category": "other_fortifications",
+        "count": 1
+      },
+      {
+        "category": "fortifications",
+        "count": 1
+      },
+      {
+        "category": "squares",
+        "count": 1
+      },
+      {
+        "category": "view_points",
+        "count": 1
+      },
+      {
+        "category": "art_galleries",
+        "count": 2
+      },
+      {
+        "category": "wall_painting",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "city": "Tokyo",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 446
+      },
+      {
+        "category": "fountains",
+        "count": 2
+      },
+      {
+        "category": "urban_environment",
+        "count": 126
+      },
+      {
+        "category": "cultural",
+        "count": 142
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 17
+      },
+      {
+        "category": "other",
+        "count": 22
+      },
+      {
+        "category": "tourist_object",
+        "count": 14
+      },
+      {
+        "category": "other_temples",
+        "count": 10
+      },
+      {
+        "category": "religion",
+        "count": 15
+      },
+      {
+        "category": "buddhist_temples",
+        "count": 5
+      },
+      {
+        "category": "wall_painting",
+        "count": 1
+      },
+      {
+        "category": "historic_architecture",
+        "count": 2
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 2
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 2
+      },
+      {
+        "category": "architecture",
+        "count": 84
+      },
+      {
+        "category": "abandoned_railway_stations",
+        "count": 2
+      },
+      {
+        "category": "bridges",
+        "count": 17
+      },
+      {
+        "category": "other_bridges",
+        "count": 17
+      },
+      {
+        "category": "skyscrapers",
+        "count": 23
+      },
+      {
+        "category": "installation",
+        "count": 99
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 10
+      },
+      {
+        "category": "other_theatres",
+        "count": 3
+      },
+      {
+        "category": "opera_houses",
+        "count": 1
+      },
+      {
+        "category": "historic_object",
+        "count": 3
+      },
+      {
+        "category": "other_museums",
+        "count": 2
+      },
+      {
+        "category": "museums",
+        "count": 6
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 16
+      },
+      {
+        "category": "sculptures",
+        "count": 8
+      },
+      {
+        "category": "view_points",
+        "count": 3
+      },
+      {
+        "category": "sundials",
+        "count": 2
+      },
+      {
+        "category": "cinemas",
+        "count": 6
+      },
+      {
+        "category": "monuments",
+        "count": 3
+      },
+      {
+        "category": "historic",
+        "count": 6
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 3
+      },
+      {
+        "category": "art_galleries",
+        "count": 3
+      },
+      {
+        "category": "military_museums",
+        "count": 1
+      },
+      {
+        "category": "history_museums",
+        "count": 1
+      },
+      {
+        "category": "other_hotels",
+        "count": 1
+      },
+      {
+        "category": "accomodations",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "city": "Lisbon",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 14260
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 4279
+      },
+      {
+        "category": "historic",
+        "count": 8592
+      },
+      {
+        "category": "monuments",
+        "count": 4279
+      },
+      {
+        "category": "architecture",
+        "count": 5100
+      },
+      {
+        "category": "palaces",
+        "count": 76
+      },
+      {
+        "category": "historic_architecture",
+        "count": 2549
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 10
+      },
+      {
+        "category": "tourist_object",
+        "count": 9
+      },
+      {
+        "category": "other",
+        "count": 1051
+      },
+      {
+        "category": "wall_painting",
+        "count": 22
+      },
+      {
+        "category": "cultural",
+        "count": 729
+      },
+      {
+        "category": "urban_environment",
+        "count": 131
+      },
+      {
+        "category": "sculptures",
+        "count": 77
+      },
+      {
+        "category": "triumphal_archs",
+        "count": 1
+      },
+      {
+        "category": "religion",
+        "count": 278
+      },
+      {
+        "category": "churches",
+        "count": 257
+      },
+      {
+        "category": "other_churches",
+        "count": 191
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 2468
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 49
+      },
+      {
+        "category": "foods",
+        "count": 48
+      },
+      {
+        "category": "restaurants",
+        "count": 36
+      },
+      {
+        "category": "other_museums",
+        "count": 581
+      },
+      {
+        "category": "museums",
+        "count": 584
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 38
+      },
+      {
+        "category": "railway_stations",
+        "count": 34
+      },
+      {
+        "category": "catholic_churches",
+        "count": 66
+      },
+      {
+        "category": "fountains",
+        "count": 10
+      },
+      {
+        "category": "cafes",
+        "count": 12
+      },
+      {
+        "category": "settlements",
+        "count": 1026
+      },
+      {
+        "category": "archaeology",
+        "count": 3088
+      },
+      {
+        "category": "other_hotels",
+        "count": 8
+      },
+      {
+        "category": "accomodations",
+        "count": 8
+      },
+      {
+        "category": "other_theatres",
+        "count": 8
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 16
+      },
+      {
+        "category": "monasteries",
+        "count": 45
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 7
+      },
+      {
+        "category": "view_points",
+        "count": 1041
+      },
+      {
+        "category": "cinemas",
+        "count": 7
+      },
+      {
+        "category": "installation",
+        "count": 8
+      },
+      {
+        "category": "squares",
+        "count": 9
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 1034
+      },
+      {
+        "category": "fortifications",
+        "count": 4102
+      },
+      {
+        "category": "defensive_walls",
+        "count": 516
+      },
+      {
+        "category": "malls",
+        "count": 1
+      },
+      {
+        "category": "shops",
+        "count": 9
+      },
+      {
+        "category": "cathedrals",
+        "count": 10
+      },
+      {
+        "category": "bakeries",
+        "count": 8
+      },
+      {
+        "category": "other_temples",
+        "count": 3
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 5
+      },
+      {
+        "category": "factories",
+        "count": 1
+      },
+      {
+        "category": "historic_districts",
+        "count": 2
+      },
+      {
+        "category": "historical_places",
+        "count": 2
+      },
+      {
+        "category": "other_buildings",
+        "count": 1
+      },
+      {
+        "category": "megaliths",
+        "count": 1
+      },
+      {
+        "category": "mausoleums",
+        "count": 3
+      },
+      {
+        "category": "burial_places",
+        "count": 4
+      },
+      {
+        "category": "military_museums",
+        "count": 1
+      },
+      {
+        "category": "manor_houses",
+        "count": 1
+      },
+      {
+        "category": "castles",
+        "count": 4097
+      },
+      {
+        "category": "concert_halls",
+        "count": 1
+      },
+      {
+        "category": "war_memorials",
+        "count": 1
+      },
+      {
+        "category": "water",
+        "count": 1
+      },
+      {
+        "category": "natural",
+        "count": 1
+      },
+      {
+        "category": "reservoirs",
+        "count": 1
+      },
+      {
+        "category": "historic_object",
+        "count": 1
+      },
+      {
+        "category": "towers",
+        "count": 2
+      },
+      {
+        "category": "other_towers",
+        "count": 2
+      },
+      {
+        "category": "fortified_towers",
+        "count": 1
+      },
+      {
+        "category": "art_galleries",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "city": "Honolulu",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 164
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 24
+      },
+      {
+        "category": "cultural",
+        "count": 39
+      },
+      {
+        "category": "cinemas",
+        "count": 22
+      },
+      {
+        "category": "architecture",
+        "count": 66
+      },
+      {
+        "category": "historic_architecture",
+        "count": 31
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 14
+      },
+      {
+        "category": "religion",
+        "count": 15
+      },
+      {
+        "category": "other_temples",
+        "count": 5
+      },
+      {
+        "category": "churches",
+        "count": 7
+      },
+      {
+        "category": "other_churches",
+        "count": 5
+      },
+      {
+        "category": "historic_districts",
+        "count": 5
+      },
+      {
+        "category": "historical_places",
+        "count": 5
+      },
+      {
+        "category": "historic",
+        "count": 30
+      },
+      {
+        "category": "other_theatres",
+        "count": 2
+      },
+      {
+        "category": "urban_environment",
+        "count": 7
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 6
+      },
+      {
+        "category": "monuments",
+        "count": 6
+      },
+      {
+        "category": "sculptures",
+        "count": 6
+      },
+      {
+        "category": "burial_places",
+        "count": 4
+      },
+      {
+        "category": "mausoleums",
+        "count": 1
+      },
+      {
+        "category": "other_museums",
+        "count": 6
+      },
+      {
+        "category": "museums",
+        "count": 9
+      },
+      {
+        "category": "palaces",
+        "count": 3
+      },
+      {
+        "category": "cemeteries",
+        "count": 2
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 14
+      },
+      {
+        "category": "skyscrapers",
+        "count": 1
+      },
+      {
+        "category": "catholic_churches",
+        "count": 2
+      },
+      {
+        "category": "cathedrals",
+        "count": 5
+      },
+      {
+        "category": "museums_of_science_and_technology",
+        "count": 2
+      },
+      {
+        "category": "maritime_museums",
+        "count": 2
+      },
+      {
+        "category": "observation_towers",
+        "count": 3
+      },
+      {
+        "category": "towers",
+        "count": 2
+      },
+      {
+        "category": "lighthouses",
+        "count": 1
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 1
+      },
+      {
+        "category": "art_galleries",
+        "count": 1
+      },
+      {
+        "category": "tourist_object",
+        "count": 2
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 2
+      },
+      {
+        "category": "other",
+        "count": 2
+      },
+      {
+        "category": "foods",
+        "count": 2
+      },
+      {
+        "category": "cafes",
+        "count": 2
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 2
+      },
+      {
+        "category": "war_memorials",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "city": "Istanbul",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 1060
+      },
+      {
+        "category": "religion",
+        "count": 166
+      },
+      {
+        "category": "other_temples",
+        "count": 59
+      },
+      {
+        "category": "historic",
+        "count": 162
+      },
+      {
+        "category": "cemeteries",
+        "count": 4
+      },
+      {
+        "category": "burial_places",
+        "count": 8
+      },
+      {
+        "category": "mosques",
+        "count": 104
+      },
+      {
+        "category": "architecture",
+        "count": 678
+      },
+      {
+        "category": "abandoned_railway_stations",
+        "count": 512
+      },
+      {
+        "category": "historic_architecture",
+        "count": 258
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 258
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 512
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 128
+      },
+      {
+        "category": "archaeology",
+        "count": 128
+      },
+      {
+        "category": "churches",
+        "count": 7
+      },
+      {
+        "category": "other_churches",
+        "count": 7
+      },
+      {
+        "category": "monasteries",
+        "count": 1
+      },
+      {
+        "category": "aqueducts",
+        "count": 81
+      },
+      {
+        "category": "bridges",
+        "count": 81
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 10
+      },
+      {
+        "category": "monuments",
+        "count": 10
+      },
+      {
+        "category": "other_burial_places",
+        "count": 4
+      },
+      {
+        "category": "urban_environment",
+        "count": 2
+      },
+      {
+        "category": "cultural",
+        "count": 5
+      },
+      {
+        "category": "sculptures",
+        "count": 2
+      },
+      {
+        "category": "tourist_object",
+        "count": 6
+      },
+      {
+        "category": "other",
+        "count": 8
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 6
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 1
+      },
+      {
+        "category": "foods",
+        "count": 1
+      },
+      {
+        "category": "restaurants",
+        "count": 1
+      },
+      {
+        "category": "other_museums",
+        "count": 2
+      },
+      {
+        "category": "museums",
+        "count": 2
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 1
+      },
+      {
+        "category": "other_theatres",
+        "count": 1
+      },
+      {
+        "category": "view_points",
+        "count": 2
+      },
+      {
+        "category": "castles",
+        "count": 2
+      },
+      {
+        "category": "fortifications",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "city": "Bangkok",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 436
+      },
+      {
+        "category": "religion",
+        "count": 36
+      },
+      {
+        "category": "buddhist_temples",
+        "count": 19
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 19
+      },
+      {
+        "category": "cultural",
+        "count": 108
+      },
+      {
+        "category": "urban_environment",
+        "count": 96
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 9
+      },
+      {
+        "category": "historic",
+        "count": 52
+      },
+      {
+        "category": "monuments",
+        "count": 9
+      },
+      {
+        "category": "bridges",
+        "count": 34
+      },
+      {
+        "category": "architecture",
+        "count": 86
+      },
+      {
+        "category": "other_bridges",
+        "count": 34
+      },
+      {
+        "category": "palaces",
+        "count": 7
+      },
+      {
+        "category": "historic_architecture",
+        "count": 9
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 14
+      },
+      {
+        "category": "other",
+        "count": 15
+      },
+      {
+        "category": "tourist_object",
+        "count": 14
+      },
+      {
+        "category": "squares",
+        "count": 70
+      },
+      {
+        "category": "other_temples",
+        "count": 11
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 5
+      },
+      {
+        "category": "cinemas",
+        "count": 2
+      },
+      {
+        "category": "installation",
+        "count": 2
+      },
+      {
+        "category": "other_fortifications",
+        "count": 16
+      },
+      {
+        "category": "fortifications",
+        "count": 16
+      },
+      {
+        "category": "burial_places",
+        "count": 1
+      },
+      {
+        "category": "cemeteries",
+        "count": 1
+      },
+      {
+        "category": "mosques",
+        "count": 2
+      },
+      {
+        "category": "sculptures",
+        "count": 3
+      },
+      {
+        "category": "museums",
+        "count": 7
+      },
+      {
+        "category": "other_museums",
+        "count": 5
+      },
+      {
+        "category": "wall_painting",
+        "count": 1
+      },
+      {
+        "category": "hindu_temples",
+        "count": 4
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 2
+      },
+      {
+        "category": "art_galleries",
+        "count": 2
+      },
+      {
+        "category": "national_museums",
+        "count": 1
+      },
+      {
+        "category": "other_theatres",
+        "count": 3
+      },
+      {
+        "category": "view_points",
+        "count": 1
+      },
+      {
+        "category": "fountains",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "city": "Agra",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 82
+      },
+      {
+        "category": "other",
+        "count": 11
+      },
+      {
+        "category": "tourist_object",
+        "count": 11
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 11
+      },
+      {
+        "category": "religion",
+        "count": 12
+      },
+      {
+        "category": "mosques",
+        "count": 3
+      },
+      {
+        "category": "manor_houses",
+        "count": 1
+      },
+      {
+        "category": "architecture",
+        "count": 2
+      },
+      {
+        "category": "historic_architecture",
+        "count": 1
+      },
+      {
+        "category": "historic",
+        "count": 32
+      },
+      {
+        "category": "monuments",
+        "count": 8
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 8
+      },
+      {
+        "category": "castles",
+        "count": 8
+      },
+      {
+        "category": "fortifications",
+        "count": 8
+      },
+      {
+        "category": "hindu_temples",
+        "count": 1
+      },
+      {
+        "category": "other_temples",
+        "count": 8
+      },
+      {
+        "category": "cultural",
+        "count": 1
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 1
+      },
+      {
+        "category": "cinemas",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "city": "Cairo",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 28
+      },
+      {
+        "category": "other_temples",
+        "count": 11
+      },
+      {
+        "category": "religion",
+        "count": 11
+      },
+      {
+        "category": "cultural",
+        "count": 3
+      },
+      {
+        "category": "installation",
+        "count": 1
+      },
+      {
+        "category": "urban_environment",
+        "count": 1
+      },
+      {
+        "category": "museums_of_science_and_technology",
+        "count": 1
+      },
+      {
+        "category": "railway_museums",
+        "count": 1
+      },
+      {
+        "category": "museums",
+        "count": 1
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 1
+      },
+      {
+        "category": "cinemas",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "city": "Helsinki",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 1106
+      },
+      {
+        "category": "historic_architecture",
+        "count": 49
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 43
+      },
+      {
+        "category": "architecture",
+        "count": 98
+      },
+      {
+        "category": "historic",
+        "count": 118
+      },
+      {
+        "category": "monuments",
+        "count": 49
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 49
+      },
+      {
+        "category": "urban_environment",
+        "count": 367
+      },
+      {
+        "category": "cultural",
+        "count": 447
+      },
+      {
+        "category": "sculptures",
+        "count": 324
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 8
+      },
+      {
+        "category": "foods",
+        "count": 7
+      },
+      {
+        "category": "restaurants",
+        "count": 3
+      },
+      {
+        "category": "opera_houses",
+        "count": 2
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 33
+      },
+      {
+        "category": "art_galleries",
+        "count": 31
+      },
+      {
+        "category": "museums",
+        "count": 49
+      },
+      {
+        "category": "installation",
+        "count": 29
+      },
+      {
+        "category": "other_burial_places",
+        "count": 7
+      },
+      {
+        "category": "burial_places",
+        "count": 14
+      },
+      {
+        "category": "cinemas",
+        "count": 13
+      },
+      {
+        "category": "bakeries",
+        "count": 2
+      },
+      {
+        "category": "shops",
+        "count": 2
+      },
+      {
+        "category": "historic_settlements",
+        "count": 2
+      },
+      {
+        "category": "historical_places",
+        "count": 3
+      },
+      {
+        "category": "wall_painting",
+        "count": 2
+      },
+      {
+        "category": "religion",
+        "count": 24
+      },
+      {
+        "category": "other_temples",
+        "count": 12
+      },
+      {
+        "category": "other_theatres",
+        "count": 16
+      },
+      {
+        "category": "other_churches",
+        "count": 8
+      },
+      {
+        "category": "churches",
+        "count": 9
+      },
+      {
+        "category": "history_museums",
+        "count": 7
+      },
+      {
+        "category": "science_museums",
+        "count": 6
+      },
+      {
+        "category": "other_museums",
+        "count": 11
+      },
+      {
+        "category": "fountains",
+        "count": 2
+      },
+      {
+        "category": "cemeteries",
+        "count": 3
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 2
+      },
+      {
+        "category": "tourist_object",
+        "count": 2
+      },
+      {
+        "category": "other",
+        "count": 2
+      },
+      {
+        "category": "cathedrals",
+        "count": 2
+      },
+      {
+        "category": "eastern_orthodox_churches",
+        "count": 1
+      },
+      {
+        "category": "war_memorials",
+        "count": 4
+      },
+      {
+        "category": "cafes",
+        "count": 3
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 9
+      },
+      {
+        "category": "fast_food",
+        "count": 1
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 6
+      },
+      {
+        "category": "concert_halls",
+        "count": 2
+      },
+      {
+        "category": "national_museums",
+        "count": 1
+      },
+      {
+        "category": "squares",
+        "count": 2
+      },
+      {
+        "category": "war_graves",
+        "count": 1
+      },
+      {
+        "category": "mausoleums",
+        "count": 1
+      },
+      {
+        "category": "railway_stations",
+        "count": 4
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 4
+      },
+      {
+        "category": "biographical_museums",
+        "count": 1
+      },
+      {
+        "category": "historic_house_museums",
+        "count": 1
+      },
+      {
+        "category": "historic_districts",
+        "count": 1
+      },
+      {
+        "category": "fortifications",
+        "count": 1
+      },
+      {
+        "category": "defensive_walls",
+        "count": 1
+      },
+      {
+        "category": "synagogues",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "city": "Bali",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 32
+      },
+      {
+        "category": "religion",
+        "count": 9
+      },
+      {
+        "category": "other_temples",
+        "count": 4
+      },
+      {
+        "category": "cultural",
+        "count": 2
+      },
+      {
+        "category": "cinemas",
+        "count": 1
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 1
+      },
+      {
+        "category": "hindu_temples",
+        "count": 5
+      },
+      {
+        "category": "museums",
+        "count": 1
+      },
+      {
+        "category": "art_galleries",
+        "count": 1
+      },
+      {
+        "category": "monuments",
+        "count": 4
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 4
+      },
+      {
+        "category": "historic",
+        "count": 8
+      },
+      {
+        "category": "tourist_object",
+        "count": 1
+      },
+      {
+        "category": "other",
+        "count": 1
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "city": "Shanghai",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 180
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 1
+      },
+      {
+        "category": "cultural",
+        "count": 27
+      },
+      {
+        "category": "urban_environment",
+        "count": 3
+      },
+      {
+        "category": "architecture",
+        "count": 114
+      },
+      {
+        "category": "skyscrapers",
+        "count": 18
+      },
+      {
+        "category": "eastern_orthodox_churches",
+        "count": 2
+      },
+      {
+        "category": "churches",
+        "count": 2
+      },
+      {
+        "category": "religion",
+        "count": 2
+      },
+      {
+        "category": "historic",
+        "count": 28
+      },
+      {
+        "category": "historic_districts",
+        "count": 11
+      },
+      {
+        "category": "historical_places",
+        "count": 11
+      },
+      {
+        "category": "accomodations",
+        "count": 18
+      },
+      {
+        "category": "other_hotels",
+        "count": 18
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 25
+      },
+      {
+        "category": "historic_architecture",
+        "count": 39
+      },
+      {
+        "category": "museums",
+        "count": 4
+      },
+      {
+        "category": "other_museums",
+        "count": 4
+      },
+      {
+        "category": "cinemas",
+        "count": 17
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 20
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 14
+      },
+      {
+        "category": "other_theatres",
+        "count": 3
+      },
+      {
+        "category": "monuments",
+        "count": 3
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 3
+      },
+      {
+        "category": "other",
+        "count": 6
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 6
+      },
+      {
+        "category": "historic_object",
+        "count": 1
+      },
+      {
+        "category": "tourist_object",
+        "count": 5
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 1
+      },
+      {
+        "category": "foods",
+        "count": 1
+      },
+      {
+        "category": "restaurants",
+        "count": 1
+      },
+      {
+        "category": "sculptures",
+        "count": 1
+      },
+      {
+        "category": "fountains",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "city": "Las Vegas",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 186
+      },
+      {
+        "category": "other",
+        "count": 4
+      },
+      {
+        "category": "tourist_object",
+        "count": 4
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 4
+      },
+      {
+        "category": "other_churches",
+        "count": 1
+      },
+      {
+        "category": "religion",
+        "count": 3
+      },
+      {
+        "category": "churches",
+        "count": 1
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 16
+      },
+      {
+        "category": "architecture",
+        "count": 46
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 6
+      },
+      {
+        "category": "cultural",
+        "count": 69
+      },
+      {
+        "category": "historic_architecture",
+        "count": 8
+      },
+      {
+        "category": "cinemas",
+        "count": 10
+      },
+      {
+        "category": "resorts",
+        "count": 1
+      },
+      {
+        "category": "adult",
+        "count": 16
+      },
+      {
+        "category": "skyscrapers",
+        "count": 15
+      },
+      {
+        "category": "accomodations",
+        "count": 15
+      },
+      {
+        "category": "casino",
+        "count": 15
+      },
+      {
+        "category": "other_theatres",
+        "count": 3
+      },
+      {
+        "category": "other_hotels",
+        "count": 14
+      },
+      {
+        "category": "urban_environment",
+        "count": 48
+      },
+      {
+        "category": "installation",
+        "count": 47
+      },
+      {
+        "category": "other_temples",
+        "count": 2
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 1
+      },
+      {
+        "category": "natural",
+        "count": 1
+      },
+      {
+        "category": "historic",
+        "count": 4
+      },
+      {
+        "category": "nature_reserves",
+        "count": 1
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 2
+      },
+      {
+        "category": "archaeology",
+        "count": 2
+      },
+      {
+        "category": "national_parks",
+        "count": 1
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 3
+      },
+      {
+        "category": "foods",
+        "count": 3
+      },
+      {
+        "category": "bars",
+        "count": 3
+      },
+      {
+        "category": "music_venues",
+        "count": 3
+      },
+      {
+        "category": "art_galleries",
+        "count": 2
+      },
+      {
+        "category": "museums",
+        "count": 6
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 2
+      },
+      {
+        "category": "other_museums",
+        "count": 3
+      },
+      {
+        "category": "bridges",
+        "count": 1
+      },
+      {
+        "category": "other_bridges",
+        "count": 1
+      },
+      {
+        "category": "historic_districts",
+        "count": 1
+      },
+      {
+        "category": "historical_places",
+        "count": 1
+      },
+      {
+        "category": "history_museums",
+        "count": 1
+      },
+      {
+        "category": "science_museums",
+        "count": 1
+      },
+      {
+        "category": "nightclubs",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "city": "Jerusalem",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 212
+      },
+      {
+        "category": "synagogues",
+        "count": 39
+      },
+      {
+        "category": "religion",
+        "count": 56
+      },
+      {
+        "category": "cultural",
+        "count": 40
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 11
+      },
+      {
+        "category": "other_theatres",
+        "count": 6
+      },
+      {
+        "category": "urban_environment",
+        "count": 18
+      },
+      {
+        "category": "sculptures",
+        "count": 13
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 4
+      },
+      {
+        "category": "monasteries",
+        "count": 3
+      },
+      {
+        "category": "other_museums",
+        "count": 8
+      },
+      {
+        "category": "museums",
+        "count": 13
+      },
+      {
+        "category": "other_temples",
+        "count": 12
+      },
+      {
+        "category": "other_burial_places",
+        "count": 3
+      },
+      {
+        "category": "historic",
+        "count": 16
+      },
+      {
+        "category": "burial_places",
+        "count": 4
+      },
+      {
+        "category": "monuments",
+        "count": 4
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 4
+      },
+      {
+        "category": "art_galleries",
+        "count": 5
+      },
+      {
+        "category": "cinemas",
+        "count": 5
+      },
+      {
+        "category": "fountains",
+        "count": 1
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 4
+      },
+      {
+        "category": "archaeology",
+        "count": 4
+      },
+      {
+        "category": "cemeteries",
+        "count": 1
+      },
+      {
+        "category": "churches",
+        "count": 2
+      },
+      {
+        "category": "other_churches",
+        "count": 2
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 1
+      },
+      {
+        "category": "restaurants",
+        "count": 1
+      },
+      {
+        "category": "foods",
+        "count": 1
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 3
+      },
+      {
+        "category": "tourist_object",
+        "count": 2
+      },
+      {
+        "category": "other",
+        "count": 3
+      },
+      {
+        "category": "mills",
+        "count": 1
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 2
+      },
+      {
+        "category": "towers",
+        "count": 2
+      },
+      {
+        "category": "architecture",
+        "count": 2
+      },
+      {
+        "category": "observation_towers",
+        "count": 3
+      },
+      {
+        "category": "fortifications",
+        "count": 1
+      },
+      {
+        "category": "castles",
+        "count": 1
+      },
+      {
+        "category": "historic_object",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "city": "Venice",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 35418
+      },
+      {
+        "category": "historic_architecture",
+        "count": 299
+      },
+      {
+        "category": "architecture",
+        "count": 35088
+      },
+      {
+        "category": "palaces",
+        "count": 292
+      },
+      {
+        "category": "bridges",
+        "count": 17242
+      },
+      {
+        "category": "stone_bridges",
+        "count": 17144
+      },
+      {
+        "category": "religion",
+        "count": 75
+      },
+      {
+        "category": "other_temples",
+        "count": 14
+      },
+      {
+        "category": "cultural",
+        "count": 95
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 20
+      },
+      {
+        "category": "other_theatres",
+        "count": 10
+      },
+      {
+        "category": "other_bridges",
+        "count": 98
+      },
+      {
+        "category": "churches",
+        "count": 60
+      },
+      {
+        "category": "other_churches",
+        "count": 24
+      },
+      {
+        "category": "historic",
+        "count": 42
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 20
+      },
+      {
+        "category": "monuments",
+        "count": 20
+      },
+      {
+        "category": "catholic_churches",
+        "count": 36
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 1
+      },
+      {
+        "category": "urban_environment",
+        "count": 28
+      },
+      {
+        "category": "sculptures",
+        "count": 18
+      },
+      {
+        "category": "other",
+        "count": 13
+      },
+      {
+        "category": "historic_object",
+        "count": 7
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 12
+      },
+      {
+        "category": "tourist_object",
+        "count": 5
+      },
+      {
+        "category": "museums",
+        "count": 51
+      },
+      {
+        "category": "art_galleries",
+        "count": 13
+      },
+      {
+        "category": "squares",
+        "count": 4
+      },
+      {
+        "category": "other_museums",
+        "count": 32
+      },
+      {
+        "category": "other_hotels",
+        "count": 22
+      },
+      {
+        "category": "accomodations",
+        "count": 24
+      },
+      {
+        "category": "installation",
+        "count": 5
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 6
+      },
+      {
+        "category": "bell_towers",
+        "count": 3
+      },
+      {
+        "category": "towers",
+        "count": 8
+      },
+      {
+        "category": "history_museums",
+        "count": 6
+      },
+      {
+        "category": "science_museums",
+        "count": 6
+      },
+      {
+        "category": "opera_houses",
+        "count": 7
+      },
+      {
+        "category": "fountains",
+        "count": 1
+      },
+      {
+        "category": "clock_towers",
+        "count": 1
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 11
+      },
+      {
+        "category": "restaurants",
+        "count": 9
+      },
+      {
+        "category": "foods",
+        "count": 10
+      },
+      {
+        "category": "cathedrals",
+        "count": 1
+      },
+      {
+        "category": "view_points",
+        "count": 1
+      },
+      {
+        "category": "cinemas",
+        "count": 4
+      },
+      {
+        "category": "monasteries",
+        "count": 1
+      },
+      {
+        "category": "guest_houses",
+        "count": 2
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 1
+      },
+      {
+        "category": "bakeries",
+        "count": 1
+      },
+      {
+        "category": "shops",
+        "count": 1
+      },
+      {
+        "category": "cafes",
+        "count": 1
+      },
+      {
+        "category": "rune_stones",
+        "count": 1
+      },
+      {
+        "category": "archaeology",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "city": "Cape Town",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 260
+      },
+      {
+        "category": "cultural",
+        "count": 65
+      },
+      {
+        "category": "museums",
+        "count": 15
+      },
+      {
+        "category": "other_museums",
+        "count": 10
+      },
+      {
+        "category": "sculptures",
+        "count": 14
+      },
+      {
+        "category": "urban_environment",
+        "count": 26
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 1
+      },
+      {
+        "category": "churches",
+        "count": 8
+      },
+      {
+        "category": "religion",
+        "count": 30
+      },
+      {
+        "category": "other_churches",
+        "count": 4
+      },
+      {
+        "category": "other_temples",
+        "count": 6
+      },
+      {
+        "category": "mosques",
+        "count": 5
+      },
+      {
+        "category": "monuments",
+        "count": 18
+      },
+      {
+        "category": "historic",
+        "count": 44
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 18
+      },
+      {
+        "category": "war_memorials",
+        "count": 2
+      },
+      {
+        "category": "burial_places",
+        "count": 5
+      },
+      {
+        "category": "historic_architecture",
+        "count": 18
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 24
+      },
+      {
+        "category": "cinemas",
+        "count": 15
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 13
+      },
+      {
+        "category": "architecture",
+        "count": 38
+      },
+      {
+        "category": "shops",
+        "count": 1
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 3
+      },
+      {
+        "category": "bakeries",
+        "count": 1
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 1
+      },
+      {
+        "category": "fortifications",
+        "count": 2
+      },
+      {
+        "category": "other_fortifications",
+        "count": 1
+      },
+      {
+        "category": "installation",
+        "count": 2
+      },
+      {
+        "category": "other_theatres",
+        "count": 6
+      },
+      {
+        "category": "other",
+        "count": 11
+      },
+      {
+        "category": "tourist_object",
+        "count": 10
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 10
+      },
+      {
+        "category": "cathedrals",
+        "count": 11
+      },
+      {
+        "category": "art_galleries",
+        "count": 2
+      },
+      {
+        "category": "manor_houses",
+        "count": 2
+      },
+      {
+        "category": "skyscrapers",
+        "count": 1
+      },
+      {
+        "category": "squares",
+        "count": 9
+      },
+      {
+        "category": "other_burial_places",
+        "count": 3
+      },
+      {
+        "category": "synagogues",
+        "count": 3
+      },
+      {
+        "category": "music_venues",
+        "count": 2
+      },
+      {
+        "category": "planetariums",
+        "count": 1
+      },
+      {
+        "category": "view_points",
+        "count": 1
+      },
+      {
+        "category": "historic_house_museums",
+        "count": 1
+      },
+      {
+        "category": "history_museums",
+        "count": 1
+      },
+      {
+        "category": "biographical_museums",
+        "count": 1
+      },
+      {
+        "category": "national_museums",
+        "count": 1
+      },
+      {
+        "category": "opera_houses",
+        "count": 1
+      },
+      {
+        "category": "castles",
+        "count": 1
+      },
+      {
+        "category": "catholic_churches",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "city": "Rio de Janeiro",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 482
+      },
+      {
+        "category": "other_temples",
+        "count": 13
+      },
+      {
+        "category": "religion",
+        "count": 50
+      },
+      {
+        "category": "urban_environment",
+        "count": 54
+      },
+      {
+        "category": "cultural",
+        "count": 144
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 30
+      },
+      {
+        "category": "other_churches",
+        "count": 26
+      },
+      {
+        "category": "churches",
+        "count": 34
+      },
+      {
+        "category": "sculptures",
+        "count": 8
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 24
+      },
+      {
+        "category": "monuments",
+        "count": 24
+      },
+      {
+        "category": "historic",
+        "count": 82
+      },
+      {
+        "category": "fountains",
+        "count": 2
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 2
+      },
+      {
+        "category": "railway_stations",
+        "count": 2
+      },
+      {
+        "category": "museums",
+        "count": 72
+      },
+      {
+        "category": "other_museums",
+        "count": 62
+      },
+      {
+        "category": "restaurants",
+        "count": 2
+      },
+      {
+        "category": "historic_architecture",
+        "count": 38
+      },
+      {
+        "category": "foods",
+        "count": 2
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 8
+      },
+      {
+        "category": "architecture",
+        "count": 82
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 3
+      },
+      {
+        "category": "geological_formations",
+        "count": 4
+      },
+      {
+        "category": "mountain_peaks",
+        "count": 3
+      },
+      {
+        "category": "natural",
+        "count": 5
+      },
+      {
+        "category": "palaces",
+        "count": 27
+      },
+      {
+        "category": "manor_houses",
+        "count": 8
+      },
+      {
+        "category": "art_galleries",
+        "count": 10
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 3
+      },
+      {
+        "category": "cinemas",
+        "count": 16
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 26
+      },
+      {
+        "category": "installation",
+        "count": 3
+      },
+      {
+        "category": "catholic_churches",
+        "count": 8
+      },
+      {
+        "category": "monasteries",
+        "count": 2
+      },
+      {
+        "category": "squares",
+        "count": 11
+      },
+      {
+        "category": "other_fortifications",
+        "count": 1
+      },
+      {
+        "category": "fortifications",
+        "count": 1
+      },
+      {
+        "category": "battlefields",
+        "count": 16
+      },
+      {
+        "category": "historical_places",
+        "count": 16
+      },
+      {
+        "category": "other_theatres",
+        "count": 8
+      },
+      {
+        "category": "national_museums",
+        "count": 1
+      },
+      {
+        "category": "nightclubs",
+        "count": 1
+      },
+      {
+        "category": "music_venues",
+        "count": 2
+      },
+      {
+        "category": "adult",
+        "count": 1
+      },
+      {
+        "category": "cathedrals",
+        "count": 2
+      },
+      {
+        "category": "skyscrapers",
+        "count": 2
+      },
+      {
+        "category": "accomodations",
+        "count": 2
+      },
+      {
+        "category": "other_hotels",
+        "count": 2
+      },
+      {
+        "category": "bank",
+        "count": 1
+      },
+      {
+        "category": "banks",
+        "count": 1
+      },
+      {
+        "category": "tourist_object",
+        "count": 2
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 2
+      },
+      {
+        "category": "other",
+        "count": 2
+      },
+      {
+        "category": "rock_formations",
+        "count": 1
+      },
+      {
+        "category": "rivers",
+        "count": 1
+      },
+      {
+        "category": "aqueducts",
+        "count": 1
+      },
+      {
+        "category": "bridges",
+        "count": 1
+      },
+      {
+        "category": "water",
+        "count": 1
+      },
+      {
+        "category": "stone_bridges",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "city": "Singapore",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 1936
+      },
+      {
+        "category": "architecture",
+        "count": 286
+      },
+      {
+        "category": "skyscrapers",
+        "count": 25
+      },
+      {
+        "category": "national_museums",
+        "count": 4
+      },
+      {
+        "category": "art_galleries",
+        "count": 5
+      },
+      {
+        "category": "museums",
+        "count": 18
+      },
+      {
+        "category": "cultural",
+        "count": 749
+      },
+      {
+        "category": "urban_environment",
+        "count": 707
+      },
+      {
+        "category": "installation",
+        "count": 642
+      },
+      {
+        "category": "historic",
+        "count": 108
+      },
+      {
+        "category": "other_burial_places",
+        "count": 8
+      },
+      {
+        "category": "burial_places",
+        "count": 10
+      },
+      {
+        "category": "religion",
+        "count": 26
+      },
+      {
+        "category": "mosques",
+        "count": 3
+      },
+      {
+        "category": "accomodations",
+        "count": 2
+      },
+      {
+        "category": "history_museums",
+        "count": 2
+      },
+      {
+        "category": "other_hotels",
+        "count": 2
+      },
+      {
+        "category": "other_temples",
+        "count": 8
+      },
+      {
+        "category": "other",
+        "count": 15
+      },
+      {
+        "category": "tourist_object",
+        "count": 12
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 12
+      },
+      {
+        "category": "hindu_temples",
+        "count": 1
+      },
+      {
+        "category": "catholic_churches",
+        "count": 1
+      },
+      {
+        "category": "churches",
+        "count": 5
+      },
+      {
+        "category": "historic_districts",
+        "count": 6
+      },
+      {
+        "category": "historical_places",
+        "count": 6
+      },
+      {
+        "category": "bridges",
+        "count": 97
+      },
+      {
+        "category": "other_bridges",
+        "count": 81
+      },
+      {
+        "category": "sculptures",
+        "count": 39
+      },
+      {
+        "category": "other_museums",
+        "count": 8
+      },
+      {
+        "category": "monuments",
+        "count": 38
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 38
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 23
+      },
+      {
+        "category": "historic_architecture",
+        "count": 20
+      },
+      {
+        "category": "other_theatres",
+        "count": 5
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 7
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 24
+      },
+      {
+        "category": "clock_towers",
+        "count": 1
+      },
+      {
+        "category": "towers",
+        "count": 2
+      },
+      {
+        "category": "concert_halls",
+        "count": 1
+      },
+      {
+        "category": "zoos",
+        "count": 1
+      },
+      {
+        "category": "buddhist_temples",
+        "count": 1
+      },
+      {
+        "category": "fountains",
+        "count": 4
+      },
+      {
+        "category": "other_churches",
+        "count": 4
+      },
+      {
+        "category": "opera_houses",
+        "count": 9
+      },
+      {
+        "category": "war_memorials",
+        "count": 2
+      },
+      {
+        "category": "restaurants",
+        "count": 2
+      },
+      {
+        "category": "foods",
+        "count": 6
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 10
+      },
+      {
+        "category": "synagogues",
+        "count": 1
+      },
+      {
+        "category": "view_points",
+        "count": 3
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 12
+      },
+      {
+        "category": "suspension_bridges",
+        "count": 16
+      },
+      {
+        "category": "cinemas",
+        "count": 9
+      },
+      {
+        "category": "banks",
+        "count": 3
+      },
+      {
+        "category": "bank",
+        "count": 3
+      },
+      {
+        "category": "military_museums",
+        "count": 1
+      },
+      {
+        "category": "cafes",
+        "count": 4
+      },
+      {
+        "category": "cathedrals",
+        "count": 8
+      },
+      {
+        "category": "manor_houses",
+        "count": 1
+      },
+      {
+        "category": "squares",
+        "count": 1
+      },
+      {
+        "category": "shops",
+        "count": 1
+      },
+      {
+        "category": "malls",
+        "count": 1
+      },
+      {
+        "category": "castles",
+        "count": 1
+      },
+      {
+        "category": "fortifications",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "city": "Toronto",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 20
+      },
+      {
+        "category": "religion",
+        "count": 7
+      },
+      {
+        "category": "other_temples",
+        "count": 2
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 3
+      },
+      {
+        "category": "cinemas",
+        "count": 3
+      },
+      {
+        "category": "cultural",
+        "count": 3
+      },
+      {
+        "category": "other_churches",
+        "count": 3
+      },
+      {
+        "category": "churches",
+        "count": 3
+      },
+      {
+        "category": "synagogues",
+        "count": 2
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 1
+      },
+      {
+        "category": "architecture",
+        "count": 2
+      },
+      {
+        "category": "historic_architecture",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "city": "Seoul",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 336
+      },
+      {
+        "category": "urban_environment",
+        "count": 24
+      },
+      {
+        "category": "cultural",
+        "count": 74
+      },
+      {
+        "category": "installation",
+        "count": 2
+      },
+      {
+        "category": "other_museums",
+        "count": 21
+      },
+      {
+        "category": "museums",
+        "count": 30
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 21
+      },
+      {
+        "category": "other_theatres",
+        "count": 7
+      },
+      {
+        "category": "architecture",
+        "count": 52
+      },
+      {
+        "category": "skyscrapers",
+        "count": 2
+      },
+      {
+        "category": "religion",
+        "count": 30
+      },
+      {
+        "category": "other_temples",
+        "count": 23
+      },
+      {
+        "category": "palaces",
+        "count": 22
+      },
+      {
+        "category": "defensive_walls",
+        "count": 7
+      },
+      {
+        "category": "historic_architecture",
+        "count": 24
+      },
+      {
+        "category": "fortifications",
+        "count": 7
+      },
+      {
+        "category": "historic",
+        "count": 72
+      },
+      {
+        "category": "history_museums",
+        "count": 2
+      },
+      {
+        "category": "other_churches",
+        "count": 1
+      },
+      {
+        "category": "churches",
+        "count": 1
+      },
+      {
+        "category": "other",
+        "count": 19
+      },
+      {
+        "category": "tourist_object",
+        "count": 17
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 19
+      },
+      {
+        "category": "concert_halls",
+        "count": 4
+      },
+      {
+        "category": "cinemas",
+        "count": 10
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 25
+      },
+      {
+        "category": "monuments",
+        "count": 24
+      },
+      {
+        "category": "historic_object",
+        "count": 2
+      },
+      {
+        "category": "buddhist_temples",
+        "count": 1
+      },
+      {
+        "category": "cathedrals",
+        "count": 5
+      },
+      {
+        "category": "historical_places",
+        "count": 1
+      },
+      {
+        "category": "battlefields",
+        "count": 1
+      },
+      {
+        "category": "archaeology",
+        "count": 6
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 6
+      },
+      {
+        "category": "milestones",
+        "count": 1
+      },
+      {
+        "category": "art_galleries",
+        "count": 7
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 1
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 2
+      },
+      {
+        "category": "restaurants",
+        "count": 2
+      },
+      {
+        "category": "foods",
+        "count": 2
+      },
+      {
+        "category": "squares",
+        "count": 1
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 9
+      },
+      {
+        "category": "fountains",
+        "count": 3
+      },
+      {
+        "category": "sculptures",
+        "count": 9
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "city": "Casablanca",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 32
+      },
+      {
+        "category": "historic_object",
+        "count": 1
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 2
+      },
+      {
+        "category": "other",
+        "count": 2
+      },
+      {
+        "category": "religion",
+        "count": 5
+      },
+      {
+        "category": "mosques",
+        "count": 1
+      },
+      {
+        "category": "squares",
+        "count": 1
+      },
+      {
+        "category": "cultural",
+        "count": 8
+      },
+      {
+        "category": "urban_environment",
+        "count": 3
+      },
+      {
+        "category": "other_temples",
+        "count": 4
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 1
+      },
+      {
+        "category": "installation",
+        "count": 1
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 5
+      },
+      {
+        "category": "cinemas",
+        "count": 5
+      },
+      {
+        "category": "tourist_object",
+        "count": 1
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 1
+      },
+      {
+        "category": "monuments",
+        "count": 1
+      },
+      {
+        "category": "historic",
+        "count": 2
+      },
+      {
+        "category": "historic_architecture",
+        "count": 1
+      },
+      {
+        "category": "architecture",
+        "count": 2
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "city": "Moscow",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 547738
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 40
+      },
+      {
+        "category": "architecture",
+        "count": 66052
+      },
+      {
+        "category": "churches",
+        "count": 62
+      },
+      {
+        "category": "other_churches",
+        "count": 21
+      },
+      {
+        "category": "religion",
+        "count": 5081
+      },
+      {
+        "category": "historic_architecture",
+        "count": 5335
+      },
+      {
+        "category": "defensive_walls",
+        "count": 18518
+      },
+      {
+        "category": "historic",
+        "count": 432052
+      },
+      {
+        "category": "fortifications",
+        "count": 18540
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 58
+      },
+      {
+        "category": "music_venues",
+        "count": 27
+      },
+      {
+        "category": "cultural",
+        "count": 24347
+      },
+      {
+        "category": "historic_districts",
+        "count": 28
+      },
+      {
+        "category": "historical_places",
+        "count": 28
+      },
+      {
+        "category": "cinemas",
+        "count": 6
+      },
+      {
+        "category": "museums",
+        "count": 78
+      },
+      {
+        "category": "other_theatres",
+        "count": 21
+      },
+      {
+        "category": "other_museums",
+        "count": 32
+      },
+      {
+        "category": "foods",
+        "count": 8
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 5272
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 9
+      },
+      {
+        "category": "restaurants",
+        "count": 7
+      },
+      {
+        "category": "urban_environment",
+        "count": 24213
+      },
+      {
+        "category": "sculptures",
+        "count": 34
+      },
+      {
+        "category": "monuments",
+        "count": 197438
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 197438
+      },
+      {
+        "category": "manor_houses",
+        "count": 17
+      },
+      {
+        "category": "art_galleries",
+        "count": 30
+      },
+      {
+        "category": "biographical_museums",
+        "count": 5
+      },
+      {
+        "category": "concert_halls",
+        "count": 3
+      },
+      {
+        "category": "fortified_towers",
+        "count": 11975
+      },
+      {
+        "category": "other_towers",
+        "count": 76
+      },
+      {
+        "category": "towers",
+        "count": 84
+      },
+      {
+        "category": "railway_stations",
+        "count": 86
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 86
+      },
+      {
+        "category": "tourist_object",
+        "count": 52
+      },
+      {
+        "category": "other",
+        "count": 5868
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 5868
+      },
+      {
+        "category": "history_museums",
+        "count": 28
+      },
+      {
+        "category": "eastern_orthodox_churches",
+        "count": 41
+      },
+      {
+        "category": "children_museums",
+        "count": 2
+      },
+      {
+        "category": "monasteries",
+        "count": 5009
+      },
+      {
+        "category": "other_bridges",
+        "count": 27648
+      },
+      {
+        "category": "bridges",
+        "count": 27648
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 12
+      },
+      {
+        "category": "archaeology",
+        "count": 12
+      },
+      {
+        "category": "other_temples",
+        "count": 10
+      },
+      {
+        "category": "squares",
+        "count": 4
+      },
+      {
+        "category": "opera_houses",
+        "count": 4
+      },
+      {
+        "category": "cathedrals",
+        "count": 24
+      },
+      {
+        "category": "historic_object",
+        "count": 5816
+      },
+      {
+        "category": "fountains",
+        "count": 20493
+      },
+      {
+        "category": "installation",
+        "count": 3060
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 623
+      },
+      {
+        "category": "aviation_museums",
+        "count": 1
+      },
+      {
+        "category": "museums_of_science_and_technology",
+        "count": 2
+      },
+      {
+        "category": "national_museums",
+        "count": 7
+      },
+      {
+        "category": "accomodations",
+        "count": 7
+      },
+      {
+        "category": "other_hotels",
+        "count": 7
+      },
+      {
+        "category": "local_museums",
+        "count": 2
+      },
+      {
+        "category": "fashion_museums",
+        "count": 1
+      },
+      {
+        "category": "children_theatres",
+        "count": 1
+      },
+      {
+        "category": "skyscrapers",
+        "count": 1
+      },
+      {
+        "category": "science_museums",
+        "count": 3
+      },
+      {
+        "category": "other_technology_museums",
+        "count": 1
+      },
+      {
+        "category": "castles",
+        "count": 1
+      },
+      {
+        "category": "clock_towers",
+        "count": 3
+      },
+      {
+        "category": "burial_places",
+        "count": 16
+      },
+      {
+        "category": "other_burial_places",
+        "count": 13
+      },
+      {
+        "category": "mountain_peaks",
+        "count": 8
+      },
+      {
+        "category": "geological_formations",
+        "count": 8
+      },
+      {
+        "category": "natural",
+        "count": 9
+      },
+      {
+        "category": "cemeteries",
+        "count": 1
+      },
+      {
+        "category": "mausoleums",
+        "count": 2
+      },
+      {
+        "category": "palaces",
+        "count": 6
+      },
+      {
+        "category": "archaeological_museums",
+        "count": 3
+      },
+      {
+        "category": "bell_towers",
+        "count": 1
+      },
+      {
+        "category": "kremlins",
+        "count": 1
+      },
+      {
+        "category": "military_museums",
+        "count": 2
+      },
+      {
+        "category": "fast_food",
+        "count": 1
+      },
+      {
+        "category": "shops",
+        "count": 1
+      },
+      {
+        "category": "malls",
+        "count": 1
+      },
+      {
+        "category": "other_fortifications",
+        "count": 1
+      },
+      {
+        "category": "nature_reserves",
+        "count": 1
+      },
+      {
+        "category": "other_nature_conservation_areas",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "city": "Sydney",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 1230
+      },
+      {
+        "category": "skyscrapers",
+        "count": 13
+      },
+      {
+        "category": "architecture",
+        "count": 554
+      },
+      {
+        "category": "historic_architecture",
+        "count": 259
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 164
+      },
+      {
+        "category": "cultural",
+        "count": 305
+      },
+      {
+        "category": "art_galleries",
+        "count": 8
+      },
+      {
+        "category": "museums",
+        "count": 26
+      },
+      {
+        "category": "sculptures",
+        "count": 81
+      },
+      {
+        "category": "installation",
+        "count": 38
+      },
+      {
+        "category": "urban_environment",
+        "count": 135
+      },
+      {
+        "category": "tourist_object",
+        "count": 22
+      },
+      {
+        "category": "other",
+        "count": 25
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 25
+      },
+      {
+        "category": "pubs",
+        "count": 12
+      },
+      {
+        "category": "foods",
+        "count": 11
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 26
+      },
+      {
+        "category": "fountains",
+        "count": 24
+      },
+      {
+        "category": "bridges",
+        "count": 3
+      },
+      {
+        "category": "other_bridges",
+        "count": 2
+      },
+      {
+        "category": "historic",
+        "count": 126
+      },
+      {
+        "category": "monuments",
+        "count": 40
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 40
+      },
+      {
+        "category": "accomodations",
+        "count": 3
+      },
+      {
+        "category": "other_hotels",
+        "count": 3
+      },
+      {
+        "category": "religion",
+        "count": 39
+      },
+      {
+        "category": "other_churches",
+        "count": 5
+      },
+      {
+        "category": "churches",
+        "count": 11
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 48
+      },
+      {
+        "category": "railway_stations",
+        "count": 44
+      },
+      {
+        "category": "other_museums",
+        "count": 8
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 145
+      },
+      {
+        "category": "cinemas",
+        "count": 102
+      },
+      {
+        "category": "bars",
+        "count": 2
+      },
+      {
+        "category": "maritime_museums",
+        "count": 6
+      },
+      {
+        "category": "museums_of_science_and_technology",
+        "count": 6
+      },
+      {
+        "category": "national_museums",
+        "count": 1
+      },
+      {
+        "category": "restaurants",
+        "count": 4
+      },
+      {
+        "category": "other_theatres",
+        "count": 36
+      },
+      {
+        "category": "historic_object",
+        "count": 3
+      },
+      {
+        "category": "burial_places",
+        "count": 5
+      },
+      {
+        "category": "war_memorials",
+        "count": 4
+      },
+      {
+        "category": "historic_settlements",
+        "count": 16
+      },
+      {
+        "category": "historical_places",
+        "count": 17
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 95
+      },
+      {
+        "category": "bank",
+        "count": 5
+      },
+      {
+        "category": "banks",
+        "count": 5
+      },
+      {
+        "category": "squares",
+        "count": 3
+      },
+      {
+        "category": "amusements",
+        "count": 1
+      },
+      {
+        "category": "other_amusement_rides",
+        "count": 1
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 9
+      },
+      {
+        "category": "historic_districts",
+        "count": 1
+      },
+      {
+        "category": "archaeology",
+        "count": 4
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 4
+      },
+      {
+        "category": "other_temples",
+        "count": 7
+      },
+      {
+        "category": "music_venues",
+        "count": 5
+      },
+      {
+        "category": "biographical_museums",
+        "count": 1
+      },
+      {
+        "category": "historic_house_museums",
+        "count": 1
+      },
+      {
+        "category": "history_museums",
+        "count": 1
+      },
+      {
+        "category": "footbridges",
+        "count": 1
+      },
+      {
+        "category": "zoos",
+        "count": 3
+      },
+      {
+        "category": "cathedrals",
+        "count": 21
+      },
+      {
+        "category": "catholic_churches",
+        "count": 6
+      },
+      {
+        "category": "shops",
+        "count": 10
+      },
+      {
+        "category": "malls",
+        "count": 9
+      },
+      {
+        "category": "marketplaces",
+        "count": 1
+      },
+      {
+        "category": "rivers",
+        "count": 1
+      },
+      {
+        "category": "water",
+        "count": 1
+      },
+      {
+        "category": "natural",
+        "count": 1
+      },
+      {
+        "category": "aquariums",
+        "count": 2
+      },
+      {
+        "category": "adult",
+        "count": 6
+      },
+      {
+        "category": "casino",
+        "count": 6
+      },
+      {
+        "category": "concert_halls",
+        "count": 4
+      },
+      {
+        "category": "cemeteries",
+        "count": 1
+      },
+      {
+        "category": "factories",
+        "count": 1
+      },
+      {
+        "category": "mints",
+        "count": 1
+      },
+      {
+        "category": "other_buildings",
+        "count": 1
+      },
+      {
+        "category": "transmitter_towers",
+        "count": 2
+      },
+      {
+        "category": "towers",
+        "count": 4
+      },
+      {
+        "category": "synagogues",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "city": "Lima",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 267050
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 2921
+      },
+      {
+        "category": "other",
+        "count": 2930
+      },
+      {
+        "category": "historic_object",
+        "count": 2908
+      },
+      {
+        "category": "tourist_object",
+        "count": 13
+      },
+      {
+        "category": "cultural",
+        "count": 12137
+      },
+      {
+        "category": "urban_environment",
+        "count": 12088
+      },
+      {
+        "category": "installation",
+        "count": 1533
+      },
+      {
+        "category": "religion",
+        "count": 2578
+      },
+      {
+        "category": "other_churches",
+        "count": 25
+      },
+      {
+        "category": "churches",
+        "count": 27
+      },
+      {
+        "category": "monasteries",
+        "count": 2509
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 344
+      },
+      {
+        "category": "other_temples",
+        "count": 33
+      },
+      {
+        "category": "view_points",
+        "count": 9
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 98708
+      },
+      {
+        "category": "historic",
+        "count": 209352
+      },
+      {
+        "category": "monuments",
+        "count": 98708
+      },
+      {
+        "category": "other_museums",
+        "count": 25
+      },
+      {
+        "category": "museums",
+        "count": 35
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 16
+      },
+      {
+        "category": "cinemas",
+        "count": 9
+      },
+      {
+        "category": "shops",
+        "count": 2
+      },
+      {
+        "category": "stadiums",
+        "count": 2
+      },
+      {
+        "category": "architecture",
+        "count": 32862
+      },
+      {
+        "category": "sport",
+        "count": 2
+      },
+      {
+        "category": "supermarkets",
+        "count": 2
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 2608
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 4
+      },
+      {
+        "category": "historic_architecture",
+        "count": 2610
+      },
+      {
+        "category": "other_theatres",
+        "count": 7
+      },
+      {
+        "category": "squares",
+        "count": 17
+      },
+      {
+        "category": "sculptures",
+        "count": 2
+      },
+      {
+        "category": "cathedrals",
+        "count": 18
+      },
+      {
+        "category": "palaces",
+        "count": 1
+      },
+      {
+        "category": "art_galleries",
+        "count": 10
+      },
+      {
+        "category": "historic_districts",
+        "count": 1
+      },
+      {
+        "category": "historical_places",
+        "count": 1
+      },
+      {
+        "category": "foods",
+        "count": 2
+      },
+      {
+        "category": "restaurants",
+        "count": 1
+      },
+      {
+        "category": "railway_stations",
+        "count": 2
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 2
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 1
+      },
+      {
+        "category": "bars",
+        "count": 1
+      },
+      {
+        "category": "catholic_churches",
+        "count": 2
+      },
+      {
+        "category": "fortified_towers",
+        "count": 5967
+      },
+      {
+        "category": "defensive_walls",
+        "count": 5967
+      },
+      {
+        "category": "fortifications",
+        "count": 5967
+      },
+      {
+        "category": "other_bridges",
+        "count": 13821
+      },
+      {
+        "category": "bridges",
+        "count": 13821
+      },
+      {
+        "category": "fountains",
+        "count": 10200
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "city": "Beijing",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 630
+      },
+      {
+        "category": "tourist_object",
+        "count": 20
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 20
+      },
+      {
+        "category": "other",
+        "count": 21
+      },
+      {
+        "category": "other_museums",
+        "count": 5
+      },
+      {
+        "category": "cultural",
+        "count": 14
+      },
+      {
+        "category": "museums",
+        "count": 7
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 2
+      },
+      {
+        "category": "other_theatres",
+        "count": 1
+      },
+      {
+        "category": "urban_environment",
+        "count": 5
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 3
+      },
+      {
+        "category": "historic",
+        "count": 554
+      },
+      {
+        "category": "fortifications",
+        "count": 13
+      },
+      {
+        "category": "defensive_walls",
+        "count": 12
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 2
+      },
+      {
+        "category": "historic_architecture",
+        "count": 4
+      },
+      {
+        "category": "architecture",
+        "count": 8
+      },
+      {
+        "category": "historical_places",
+        "count": 1
+      },
+      {
+        "category": "battlefields",
+        "count": 1
+      },
+      {
+        "category": "mausoleums",
+        "count": 2
+      },
+      {
+        "category": "burial_places",
+        "count": 3
+      },
+      {
+        "category": "religion",
+        "count": 3
+      },
+      {
+        "category": "other_temples",
+        "count": 2
+      },
+      {
+        "category": "monuments",
+        "count": 260
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 260
+      },
+      {
+        "category": "railway_museums",
+        "count": 1
+      },
+      {
+        "category": "abandoned_railway_stations",
+        "count": 2
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 1
+      },
+      {
+        "category": "museums_of_science_and_technology",
+        "count": 1
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 2
+      },
+      {
+        "category": "buddhist_temples",
+        "count": 1
+      },
+      {
+        "category": "national_museums",
+        "count": 1
+      },
+      {
+        "category": "palaces",
+        "count": 1
+      },
+      {
+        "category": "opera_houses",
+        "count": 1
+      },
+      {
+        "category": "concert_halls",
+        "count": 1
+      },
+      {
+        "category": "nature_reserves",
+        "count": 1
+      },
+      {
+        "category": "other_nature_conservation_areas",
+        "count": 1
+      },
+      {
+        "category": "natural",
+        "count": 1
+      },
+      {
+        "category": "sculptures",
+        "count": 1
+      },
+      {
+        "category": "fortified_towers",
+        "count": 1
+      },
+      {
+        "category": "squares",
+        "count": 1
+      },
+      {
+        "category": "view_points",
+        "count": 1
+      },
+      {
+        "category": "cemeteries",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "city": "Buenos Aires",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 251440
+      },
+      {
+        "category": "foods",
+        "count": 10
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 44
+      },
+      {
+        "category": "architecture",
+        "count": 31066
+      },
+      {
+        "category": "historic_architecture",
+        "count": 2515
+      },
+      {
+        "category": "restaurants",
+        "count": 6
+      },
+      {
+        "category": "other_theatres",
+        "count": 9
+      },
+      {
+        "category": "cultural",
+        "count": 11451
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 25
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 8
+      },
+      {
+        "category": "other_temples",
+        "count": 9
+      },
+      {
+        "category": "religion",
+        "count": 2372
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 2507
+      },
+      {
+        "category": "tourist_object",
+        "count": 20
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 2759
+      },
+      {
+        "category": "other",
+        "count": 2767
+      },
+      {
+        "category": "bank",
+        "count": 17
+      },
+      {
+        "category": "skyscrapers",
+        "count": 10
+      },
+      {
+        "category": "banks",
+        "count": 17
+      },
+      {
+        "category": "urban_environment",
+        "count": 11400
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 309
+      },
+      {
+        "category": "historic_object",
+        "count": 2739
+      },
+      {
+        "category": "shops",
+        "count": 18
+      },
+      {
+        "category": "bakeries",
+        "count": 18
+      },
+      {
+        "category": "squares",
+        "count": 20
+      },
+      {
+        "category": "cinemas",
+        "count": 15
+      },
+      {
+        "category": "history_museums",
+        "count": 15
+      },
+      {
+        "category": "museums",
+        "count": 26
+      },
+      {
+        "category": "national_museums",
+        "count": 12
+      },
+      {
+        "category": "historic",
+        "count": 197032
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 92900
+      },
+      {
+        "category": "monuments",
+        "count": 92900
+      },
+      {
+        "category": "installation",
+        "count": 1443
+      },
+      {
+        "category": "sculptures",
+        "count": 27
+      },
+      {
+        "category": "art_galleries",
+        "count": 3
+      },
+      {
+        "category": "other_churches",
+        "count": 5
+      },
+      {
+        "category": "churches",
+        "count": 10
+      },
+      {
+        "category": "cafes",
+        "count": 4
+      },
+      {
+        "category": "bars",
+        "count": 1
+      },
+      {
+        "category": "opera_houses",
+        "count": 1
+      },
+      {
+        "category": "catholic_churches",
+        "count": 5
+      },
+      {
+        "category": "cathedrals",
+        "count": 1
+      },
+      {
+        "category": "view_points",
+        "count": 8
+      },
+      {
+        "category": "hindu_temples",
+        "count": 1
+      },
+      {
+        "category": "other_museums",
+        "count": 3
+      },
+      {
+        "category": "local_museums",
+        "count": 2
+      },
+      {
+        "category": "fountains",
+        "count": 9602
+      },
+      {
+        "category": "science_museums",
+        "count": 1
+      },
+      {
+        "category": "fortified_towers",
+        "count": 5616
+      },
+      {
+        "category": "defensive_walls",
+        "count": 5616
+      },
+      {
+        "category": "fortifications",
+        "count": 5616
+      },
+      {
+        "category": "other_bridges",
+        "count": 13008
+      },
+      {
+        "category": "bridges",
+        "count": 13008
+      },
+      {
+        "category": "monasteries",
+        "count": 2352
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "city": "Edinburgh",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 1206
+      },
+      {
+        "category": "historic_architecture",
+        "count": 542
+      },
+      {
+        "category": "architecture",
+        "count": 1088
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 541
+      },
+      {
+        "category": "monuments",
+        "count": 34
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 34
+      },
+      {
+        "category": "historic",
+        "count": 68
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 24
+      },
+      {
+        "category": "bank",
+        "count": 19
+      },
+      {
+        "category": "banks",
+        "count": 19
+      },
+      {
+        "category": "religion",
+        "count": 6
+      },
+      {
+        "category": "other_churches",
+        "count": 6
+      },
+      {
+        "category": "churches",
+        "count": 6
+      },
+      {
+        "category": "burial_places",
+        "count": 6
+      },
+      {
+        "category": "war_memorials",
+        "count": 3
+      },
+      {
+        "category": "other",
+        "count": 7
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 4
+      },
+      {
+        "category": "tourist_object",
+        "count": 4
+      },
+      {
+        "category": "pubs",
+        "count": 6
+      },
+      {
+        "category": "foods",
+        "count": 5
+      },
+      {
+        "category": "cultural",
+        "count": 24
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 3
+      },
+      {
+        "category": "cinemas",
+        "count": 2
+      },
+      {
+        "category": "other_museums",
+        "count": 3
+      },
+      {
+        "category": "museums",
+        "count": 6
+      },
+      {
+        "category": "other_theatres",
+        "count": 1
+      },
+      {
+        "category": "urban_environment",
+        "count": 15
+      },
+      {
+        "category": "sculptures",
+        "count": 11
+      },
+      {
+        "category": "fountains",
+        "count": 1
+      },
+      {
+        "category": "other_burial_places",
+        "count": 3
+      },
+      {
+        "category": "view_points",
+        "count": 1
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 3
+      },
+      {
+        "category": "restaurants",
+        "count": 2
+      },
+      {
+        "category": "other_bridges",
+        "count": 1
+      },
+      {
+        "category": "bridges",
+        "count": 1
+      },
+      {
+        "category": "other_towers",
+        "count": 2
+      },
+      {
+        "category": "towers",
+        "count": 2
+      },
+      {
+        "category": "red_telephone_boxes",
+        "count": 2
+      },
+      {
+        "category": "art_galleries",
+        "count": 3
+      },
+      {
+        "category": "installation",
+        "count": 1
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "city": "Los Angeles",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 1804
+      },
+      {
+        "category": "historic_architecture",
+        "count": 239
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 93
+      },
+      {
+        "category": "cultural",
+        "count": 193
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 127
+      },
+      {
+        "category": "architecture",
+        "count": 1500
+      },
+      {
+        "category": "cinemas",
+        "count": 111
+      },
+      {
+        "category": "skyscrapers",
+        "count": 11
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 16
+      },
+      {
+        "category": "monuments",
+        "count": 16
+      },
+      {
+        "category": "historic",
+        "count": 78
+      },
+      {
+        "category": "museums",
+        "count": 42
+      },
+      {
+        "category": "other_museums",
+        "count": 27
+      },
+      {
+        "category": "urban_environment",
+        "count": 27
+      },
+      {
+        "category": "installation",
+        "count": 6
+      },
+      {
+        "category": "art_galleries",
+        "count": 14
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 146
+      },
+      {
+        "category": "bridges",
+        "count": 500
+      },
+      {
+        "category": "other_bridges",
+        "count": 500
+      },
+      {
+        "category": "religion",
+        "count": 10
+      },
+      {
+        "category": "buddhist_temples",
+        "count": 2
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 18
+      },
+      {
+        "category": "railway_stations",
+        "count": 18
+      },
+      {
+        "category": "historic_districts",
+        "count": 22
+      },
+      {
+        "category": "historical_places",
+        "count": 22
+      },
+      {
+        "category": "squares",
+        "count": 2
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 7
+      },
+      {
+        "category": "tourist_object",
+        "count": 7
+      },
+      {
+        "category": "other",
+        "count": 8
+      },
+      {
+        "category": "other_theatres",
+        "count": 11
+      },
+      {
+        "category": "fountains",
+        "count": 4
+      },
+      {
+        "category": "other_churches",
+        "count": 2
+      },
+      {
+        "category": "churches",
+        "count": 3
+      },
+      {
+        "category": "accomodations",
+        "count": 3
+      },
+      {
+        "category": "other_hotels",
+        "count": 3
+      },
+      {
+        "category": "opera_houses",
+        "count": 1
+      },
+      {
+        "category": "other_temples",
+        "count": 4
+      },
+      {
+        "category": "music_venues",
+        "count": 4
+      },
+      {
+        "category": "concert_halls",
+        "count": 1
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 5
+      },
+      {
+        "category": "sculptures",
+        "count": 10
+      },
+      {
+        "category": "cathedrals",
+        "count": 2
+      },
+      {
+        "category": "bank",
+        "count": 1
+      },
+      {
+        "category": "banks",
+        "count": 1
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 1
+      },
+      {
+        "category": "burial_places",
+        "count": 1
+      },
+      {
+        "category": "cemeteries",
+        "count": 1
+      },
+      {
+        "category": "catholic_churches",
+        "count": 1
+      },
+      {
+        "category": "children_museums",
+        "count": 1
+      },
+      {
+        "category": "view_points",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "city": "Copenhagen",
+    "categories": [
+      {
+        "category": "urban_environment",
+        "count": 13074
+      },
+      {
+        "category": "interesting_places",
+        "count": 288296
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 106487
+      },
+      {
+        "category": "monuments",
+        "count": 106487
+      },
+      {
+        "category": "cultural",
+        "count": 13147
+      },
+      {
+        "category": "historic",
+        "count": 225856
+      },
+      {
+        "category": "sculptures",
+        "count": 60
+      },
+      {
+        "category": "other_churches",
+        "count": 16
+      },
+      {
+        "category": "religion",
+        "count": 2727
+      },
+      {
+        "category": "churches",
+        "count": 17
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 49
+      },
+      {
+        "category": "cinemas",
+        "count": 15
+      },
+      {
+        "category": "other_theatres",
+        "count": 30
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 3142
+      },
+      {
+        "category": "tourist_object",
+        "count": 5
+      },
+      {
+        "category": "other",
+        "count": 3142
+      },
+      {
+        "category": "installation",
+        "count": 1667
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 34
+      },
+      {
+        "category": "archaeology",
+        "count": 62
+      },
+      {
+        "category": "other_temples",
+        "count": 12
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 2839
+      },
+      {
+        "category": "architecture",
+        "count": 35512
+      },
+      {
+        "category": "historic_architecture",
+        "count": 2845
+      },
+      {
+        "category": "museums",
+        "count": 27
+      },
+      {
+        "category": "history_museums",
+        "count": 1
+      },
+      {
+        "category": "local_museums",
+        "count": 1
+      },
+      {
+        "category": "rune_stones",
+        "count": 14
+      },
+      {
+        "category": "other_burial_places",
+        "count": 18
+      },
+      {
+        "category": "burial_places",
+        "count": 18
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 10
+      },
+      {
+        "category": "art_galleries",
+        "count": 7
+      },
+      {
+        "category": "cafes",
+        "count": 2
+      },
+      {
+        "category": "foods",
+        "count": 5
+      },
+      {
+        "category": "other_museums",
+        "count": 16
+      },
+      {
+        "category": "towers",
+        "count": 8
+      },
+      {
+        "category": "observation_towers",
+        "count": 3
+      },
+      {
+        "category": "castles",
+        "count": 3
+      },
+      {
+        "category": "fortifications",
+        "count": 6441
+      },
+      {
+        "category": "fountains",
+        "count": 11006
+      },
+      {
+        "category": "monasteries",
+        "count": 2696
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 336
+      },
+      {
+        "category": "historical_places",
+        "count": 1
+      },
+      {
+        "category": "historic_districts",
+        "count": 1
+      },
+      {
+        "category": "palaces",
+        "count": 2
+      },
+      {
+        "category": "music_venues",
+        "count": 4
+      },
+      {
+        "category": "military_museums",
+        "count": 1
+      },
+      {
+        "category": "restaurants",
+        "count": 2
+      },
+      {
+        "category": "adult",
+        "count": 3
+      },
+      {
+        "category": "nightclubs",
+        "count": 3
+      },
+      {
+        "category": "defensive_walls",
+        "count": 6438
+      },
+      {
+        "category": "squares",
+        "count": 7
+      },
+      {
+        "category": "other_towers",
+        "count": 6
+      },
+      {
+        "category": "amusements",
+        "count": 6
+      },
+      {
+        "category": "other_amusement_rides",
+        "count": 3
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 4
+      },
+      {
+        "category": "moveable_bridges",
+        "count": 1
+      },
+      {
+        "category": "bridges",
+        "count": 14907
+      },
+      {
+        "category": "historic_object",
+        "count": 3137
+      },
+      {
+        "category": "bakeries",
+        "count": 5
+      },
+      {
+        "category": "shops",
+        "count": 5
+      },
+      {
+        "category": "national_museums",
+        "count": 1
+      },
+      {
+        "category": "mosques",
+        "count": 1
+      },
+      {
+        "category": "synagogues",
+        "count": 1
+      },
+      {
+        "category": "planetariums",
+        "count": 1
+      },
+      {
+        "category": "opera_houses",
+        "count": 2
+      },
+      {
+        "category": "amusement_parks",
+        "count": 6
+      },
+      {
+        "category": "bars",
+        "count": 1
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 162
+      },
+      {
+        "category": "railway_stations",
+        "count": 162
+      },
+      {
+        "category": "concert_halls",
+        "count": 1
+      },
+      {
+        "category": "circuses",
+        "count": 1
+      },
+      {
+        "category": "catholic_churches",
+        "count": 1
+      },
+      {
+        "category": "cathedrals",
+        "count": 1
+      },
+      {
+        "category": "other_bridges",
+        "count": 14906
+      },
+      {
+        "category": "fortified_towers",
+        "count": 6435
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "city": "Osaka",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 847414
+      },
+      {
+        "category": "cultural",
+        "count": 38310
+      },
+      {
+        "category": "urban_environment",
+        "count": 38284
+      },
+      {
+        "category": "sculptures",
+        "count": 44
+      },
+      {
+        "category": "science_museums",
+        "count": 1
+      },
+      {
+        "category": "museums",
+        "count": 18
+      },
+      {
+        "category": "historic",
+        "count": 664982
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 313535
+      },
+      {
+        "category": "monuments",
+        "count": 313535
+      },
+      {
+        "category": "religion",
+        "count": 7996
+      },
+      {
+        "category": "churches",
+        "count": 3
+      },
+      {
+        "category": "other_churches",
+        "count": 3
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 8
+      },
+      {
+        "category": "other_theatres",
+        "count": 6
+      },
+      {
+        "category": "architecture",
+        "count": 104404
+      },
+      {
+        "category": "other_bridges",
+        "count": 43911
+      },
+      {
+        "category": "bridges",
+        "count": 43911
+      },
+      {
+        "category": "skyscrapers",
+        "count": 21
+      },
+      {
+        "category": "other_temples",
+        "count": 21
+      },
+      {
+        "category": "buddhist_temples",
+        "count": 34
+      },
+      {
+        "category": "art_galleries",
+        "count": 11
+      },
+      {
+        "category": "national_museums",
+        "count": 1
+      },
+      {
+        "category": "historic_architecture",
+        "count": 8270
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 8270
+      },
+      {
+        "category": "cinemas",
+        "count": 1
+      },
+      {
+        "category": "archaeology",
+        "count": 4
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 4
+      },
+      {
+        "category": "other_museums",
+        "count": 6
+      },
+      {
+        "category": "installation",
+        "count": 4867
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 973
+      },
+      {
+        "category": "music_venues",
+        "count": 1
+      },
+      {
+        "category": "other",
+        "count": 9235
+      },
+      {
+        "category": "view_points",
+        "count": 1
+      },
+      {
+        "category": "fortified_towers",
+        "count": 18954
+      },
+      {
+        "category": "defensive_walls",
+        "count": 18954
+      },
+      {
+        "category": "fortifications",
+        "count": 18954
+      },
+      {
+        "category": "historic_object",
+        "count": 9234
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 9234
+      },
+      {
+        "category": "fountains",
+        "count": 32400
+      },
+      {
+        "category": "monasteries",
+        "count": 7938
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "city": "Auckland",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 258
+      },
+      {
+        "category": "other_temples",
+        "count": 8
+      },
+      {
+        "category": "religion",
+        "count": 15
+      },
+      {
+        "category": "cultural",
+        "count": 69
+      },
+      {
+        "category": "museums_of_science_and_technology",
+        "count": 1
+      },
+      {
+        "category": "maritime_museums",
+        "count": 1
+      },
+      {
+        "category": "military_museums",
+        "count": 1
+      },
+      {
+        "category": "museums",
+        "count": 4
+      },
+      {
+        "category": "urban_environment",
+        "count": 21
+      },
+      {
+        "category": "installation",
+        "count": 6
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 3
+      },
+      {
+        "category": "tourist_object",
+        "count": 2
+      },
+      {
+        "category": "other",
+        "count": 3
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 44
+      },
+      {
+        "category": "cinemas",
+        "count": 37
+      },
+      {
+        "category": "architecture",
+        "count": 86
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 7
+      },
+      {
+        "category": "historic_architecture",
+        "count": 24
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 17
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 22
+      },
+      {
+        "category": "historic",
+        "count": 48
+      },
+      {
+        "category": "monuments",
+        "count": 22
+      },
+      {
+        "category": "other_theatres",
+        "count": 5
+      },
+      {
+        "category": "sculptures",
+        "count": 11
+      },
+      {
+        "category": "wall_painting",
+        "count": 1
+      },
+      {
+        "category": "churches",
+        "count": 4
+      },
+      {
+        "category": "other_churches",
+        "count": 4
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 3
+      },
+      {
+        "category": "synagogues",
+        "count": 2
+      },
+      {
+        "category": "transmitter_towers",
+        "count": 1
+      },
+      {
+        "category": "towers",
+        "count": 2
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 16
+      },
+      {
+        "category": "banks",
+        "count": 16
+      },
+      {
+        "category": "skyscrapers",
+        "count": 16
+      },
+      {
+        "category": "bank",
+        "count": 16
+      },
+      {
+        "category": "cathedrals",
+        "count": 1
+      },
+      {
+        "category": "music_venues",
+        "count": 2
+      },
+      {
+        "category": "war_memorials",
+        "count": 2
+      },
+      {
+        "category": "burial_places",
+        "count": 2
+      },
+      {
+        "category": "natural",
+        "count": 1
+      },
+      {
+        "category": "nature_reserves",
+        "count": 1
+      },
+      {
+        "category": "other_nature_conservation_areas",
+        "count": 1
+      },
+      {
+        "category": "bridges",
+        "count": 2
+      },
+      {
+        "category": "moveable_bridges",
+        "count": 1
+      },
+      {
+        "category": "art_galleries",
+        "count": 3
+      },
+      {
+        "category": "historic_object",
+        "count": 1
+      },
+      {
+        "category": "viaducts",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "city": "Mumbai",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 22
+      },
+      {
+        "category": "cultural",
+        "count": 3
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 3
+      },
+      {
+        "category": "cinemas",
+        "count": 3
+      },
+      {
+        "category": "other",
+        "count": 2
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 2
+      },
+      {
+        "category": "historic_object",
+        "count": 2
+      },
+      {
+        "category": "religion",
+        "count": 6
+      },
+      {
+        "category": "other_temples",
+        "count": 3
+      },
+      {
+        "category": "hindu_temples",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "city": "Dubai",
+    "categories": [
+      {
+        "category": "tourist_object",
+        "count": 1
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 1
+      },
+      {
+        "category": "other",
+        "count": 1
+      },
+      {
+        "category": "interesting_places",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "city": "Hong Kong",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 1402
+      },
+      {
+        "category": "historic",
+        "count": 10
+      },
+      {
+        "category": "burial_places",
+        "count": 4
+      },
+      {
+        "category": "cemeteries",
+        "count": 3
+      },
+      {
+        "category": "view_points",
+        "count": 2
+      },
+      {
+        "category": "other",
+        "count": 9
+      },
+      {
+        "category": "architecture",
+        "count": 34
+      },
+      {
+        "category": "shops",
+        "count": 1
+      },
+      {
+        "category": "skyscrapers",
+        "count": 15
+      },
+      {
+        "category": "malls",
+        "count": 1
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 1
+      },
+      {
+        "category": "tourist_object",
+        "count": 7
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 7
+      },
+      {
+        "category": "other_burial_places",
+        "count": 1
+      },
+      {
+        "category": "cultural",
+        "count": 641
+      },
+      {
+        "category": "urban_environment",
+        "count": 632
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 5
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 7
+      },
+      {
+        "category": "cinemas",
+        "count": 4
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 1
+      },
+      {
+        "category": "monuments",
+        "count": 1
+      },
+      {
+        "category": "other_museums",
+        "count": 1
+      },
+      {
+        "category": "museums",
+        "count": 2
+      },
+      {
+        "category": "religion",
+        "count": 29
+      },
+      {
+        "category": "other_temples",
+        "count": 27
+      },
+      {
+        "category": "sculptures",
+        "count": 2
+      },
+      {
+        "category": "music_venues",
+        "count": 3
+      },
+      {
+        "category": "art_galleries",
+        "count": 1
+      },
+      {
+        "category": "squares",
+        "count": 625
+      },
+      {
+        "category": "accomodations",
+        "count": 1
+      },
+      {
+        "category": "other_hotels",
+        "count": 1
+      },
+      {
+        "category": "historic_architecture",
+        "count": 2
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 1
+      },
+      {
+        "category": "churches",
+        "count": 1
+      },
+      {
+        "category": "other_churches",
+        "count": 1
+      },
+      {
+        "category": "mosques",
+        "count": 1
+      },
+      {
+        "category": "geological_formations",
+        "count": 1
+      },
+      {
+        "category": "natural",
+        "count": 1
+      },
+      {
+        "category": "mountain_peaks",
+        "count": 1
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "city": "Qatar",
+    "categories": []
+  },
+  {
+    "id": 43,
+    "city": "Seattle",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 1262
+      },
+      {
+        "category": "other",
+        "count": 13
+      },
+      {
+        "category": "tourist_object",
+        "count": 11
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 12
+      },
+      {
+        "category": "architecture",
+        "count": 246
+      },
+      {
+        "category": "cultural",
+        "count": 524
+      },
+      {
+        "category": "urban_environment",
+        "count": 399
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 8
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 14
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 54
+      },
+      {
+        "category": "historic_architecture",
+        "count": 83
+      },
+      {
+        "category": "abandoned_railway_stations",
+        "count": 2
+      },
+      {
+        "category": "squares",
+        "count": 2
+      },
+      {
+        "category": "railway_stations",
+        "count": 8
+      },
+      {
+        "category": "sculptures",
+        "count": 52
+      },
+      {
+        "category": "historic_districts",
+        "count": 5
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 29
+      },
+      {
+        "category": "marketplaces",
+        "count": 4
+      },
+      {
+        "category": "shops",
+        "count": 5
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 14
+      },
+      {
+        "category": "historic",
+        "count": 28
+      },
+      {
+        "category": "historical_places",
+        "count": 5
+      },
+      {
+        "category": "cinemas",
+        "count": 89
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 98
+      },
+      {
+        "category": "foods",
+        "count": 8
+      },
+      {
+        "category": "restaurants",
+        "count": 7
+      },
+      {
+        "category": "skyscrapers",
+        "count": 39
+      },
+      {
+        "category": "installation",
+        "count": 316
+      },
+      {
+        "category": "accomodations",
+        "count": 22
+      },
+      {
+        "category": "other_hotels",
+        "count": 22
+      },
+      {
+        "category": "religion",
+        "count": 17
+      },
+      {
+        "category": "other_temples",
+        "count": 12
+      },
+      {
+        "category": "other_theatres",
+        "count": 5
+      },
+      {
+        "category": "museums",
+        "count": 27
+      },
+      {
+        "category": "aquariums",
+        "count": 17
+      },
+      {
+        "category": "zoos",
+        "count": 17
+      },
+      {
+        "category": "other_museums",
+        "count": 5
+      },
+      {
+        "category": "music_venues",
+        "count": 3
+      },
+      {
+        "category": "fortifications",
+        "count": 1
+      },
+      {
+        "category": "other_fortifications",
+        "count": 1
+      },
+      {
+        "category": "wall_painting",
+        "count": 18
+      },
+      {
+        "category": "fish_stores",
+        "count": 1
+      },
+      {
+        "category": "view_points",
+        "count": 1
+      },
+      {
+        "category": "monuments",
+        "count": 7
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 7
+      },
+      {
+        "category": "bakeries",
+        "count": 1
+      },
+      {
+        "category": "art_galleries",
+        "count": 5
+      },
+      {
+        "category": "banks",
+        "count": 3
+      },
+      {
+        "category": "bank",
+        "count": 3
+      },
+      {
+        "category": "historic_object",
+        "count": 1
+      },
+      {
+        "category": "churches",
+        "count": 5
+      },
+      {
+        "category": "catholic_churches",
+        "count": 1
+      },
+      {
+        "category": "cathedrals",
+        "count": 1
+      },
+      {
+        "category": "fountains",
+        "count": 4
+      },
+      {
+        "category": "viaducts",
+        "count": 1
+      },
+      {
+        "category": "bridges",
+        "count": 1
+      },
+      {
+        "category": "concert_halls",
+        "count": 2
+      },
+      {
+        "category": "archaeology",
+        "count": 2
+      },
+      {
+        "category": "other_archaeological_sites",
+        "count": 2
+      },
+      {
+        "category": "other_churches",
+        "count": 4
+      },
+      {
+        "category": "burial_places",
+        "count": 1
+      },
+      {
+        "category": "war_memorials",
+        "count": 1
+      },
+      {
+        "category": "adult",
+        "count": 1
+      },
+      {
+        "category": "bars",
+        "count": 1
+      },
+      {
+        "category": "nightclubs",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "city": "Oslo",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 772
+      },
+      {
+        "category": "museums",
+        "count": 38
+      },
+      {
+        "category": "military_museums",
+        "count": 3
+      },
+      {
+        "category": "cultural",
+        "count": 132
+      },
+      {
+        "category": "monuments",
+        "count": 157
+      },
+      {
+        "category": "burial_places",
+        "count": 84
+      },
+      {
+        "category": "other_burial_places",
+        "count": 76
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 157
+      },
+      {
+        "category": "historic",
+        "count": 328
+      },
+      {
+        "category": "other_churches",
+        "count": 13
+      },
+      {
+        "category": "churches",
+        "count": 13
+      },
+      {
+        "category": "religion",
+        "count": 27
+      },
+      {
+        "category": "historic_object",
+        "count": 12
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 15
+      },
+      {
+        "category": "other",
+        "count": 15
+      },
+      {
+        "category": "architecture",
+        "count": 110
+      },
+      {
+        "category": "foods",
+        "count": 7
+      },
+      {
+        "category": "restaurants",
+        "count": 7
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 47
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 9
+      },
+      {
+        "category": "historic_architecture",
+        "count": 48
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 38
+      },
+      {
+        "category": "opera_houses",
+        "count": 5
+      },
+      {
+        "category": "concert_halls",
+        "count": 5
+      },
+      {
+        "category": "urban_environment",
+        "count": 58
+      },
+      {
+        "category": "sculptures",
+        "count": 17
+      },
+      {
+        "category": "installation",
+        "count": 27
+      },
+      {
+        "category": "music_venues",
+        "count": 4
+      },
+      {
+        "category": "other_temples",
+        "count": 9
+      },
+      {
+        "category": "other_bridges",
+        "count": 4
+      },
+      {
+        "category": "bridges",
+        "count": 4
+      },
+      {
+        "category": "war_memorials",
+        "count": 6
+      },
+      {
+        "category": "other_museums",
+        "count": 19
+      },
+      {
+        "category": "fountains",
+        "count": 1
+      },
+      {
+        "category": "squares",
+        "count": 7
+      },
+      {
+        "category": "tourist_object",
+        "count": 3
+      },
+      {
+        "category": "other_theatres",
+        "count": 19
+      },
+      {
+        "category": "fortifications",
+        "count": 1
+      },
+      {
+        "category": "castles",
+        "count": 1
+      },
+      {
+        "category": "cemeteries",
+        "count": 2
+      },
+      {
+        "category": "cinemas",
+        "count": 10
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 1
+      },
+      {
+        "category": "abandoned_railway_stations",
+        "count": 2
+      },
+      {
+        "category": "railway_stations",
+        "count": 4
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 4
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 7
+      },
+      {
+        "category": "art_galleries",
+        "count": 16
+      },
+      {
+        "category": "cathedrals",
+        "count": 4
+      },
+      {
+        "category": "natural",
+        "count": 1
+      },
+      {
+        "category": "islands",
+        "count": 1
+      },
+      {
+        "category": "other_islands",
+        "count": 1
+      },
+      {
+        "category": "malls",
+        "count": 2
+      },
+      {
+        "category": "shops",
+        "count": 2
+      },
+      {
+        "category": "skyscrapers",
+        "count": 2
+      },
+      {
+        "category": "mosques",
+        "count": 1
+      },
+      {
+        "category": "other_hotels",
+        "count": 1
+      },
+      {
+        "category": "accomodations",
+        "count": 1
+      },
+      {
+        "category": "other_towers",
+        "count": 2
+      },
+      {
+        "category": "towers",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "city": "Bath",
+    "categories": [
+      {
+        "category": "interesting_places",
+        "count": 299616
+      },
+      {
+        "category": "other_buildings_and_structures",
+        "count": 3574
+      },
+      {
+        "category": "architecture",
+        "count": 38118
+      },
+      {
+        "category": "historic_architecture",
+        "count": 3592
+      },
+      {
+        "category": "historic",
+        "count": 233984
+      },
+      {
+        "category": "monuments",
+        "count": 110302
+      },
+      {
+        "category": "fountains",
+        "count": 11404
+      },
+      {
+        "category": "monuments_and_memorials",
+        "count": 110302
+      },
+      {
+        "category": "cultural",
+        "count": 13518
+      },
+      {
+        "category": "urban_environment",
+        "count": 13470
+      },
+      {
+        "category": "fortifications",
+        "count": 6687
+      },
+      {
+        "category": "defensive_walls",
+        "count": 6685
+      },
+      {
+        "category": "cafes",
+        "count": 5
+      },
+      {
+        "category": "tourist_facilities",
+        "count": 22
+      },
+      {
+        "category": "foods",
+        "count": 22
+      },
+      {
+        "category": "squares",
+        "count": 8
+      },
+      {
+        "category": "religion",
+        "count": 2830
+      },
+      {
+        "category": "other_temples",
+        "count": 15
+      },
+      {
+        "category": "gardens_and_parks",
+        "count": 346
+      },
+      {
+        "category": "other_fortifications",
+        "count": 2
+      },
+      {
+        "category": "sculptures",
+        "count": 4
+      },
+      {
+        "category": "restaurants",
+        "count": 6
+      },
+      {
+        "category": "manor_houses",
+        "count": 1
+      },
+      {
+        "category": "churches",
+        "count": 21
+      },
+      {
+        "category": "other_churches",
+        "count": 21
+      },
+      {
+        "category": "other_bridges",
+        "count": 15466
+      },
+      {
+        "category": "bridges",
+        "count": 15467
+      },
+      {
+        "category": "historical_places",
+        "count": 1
+      },
+      {
+        "category": "historic_settlements",
+        "count": 1
+      },
+      {
+        "category": "footbridges",
+        "count": 1
+      },
+      {
+        "category": "bars",
+        "count": 2
+      },
+      {
+        "category": "accomodations",
+        "count": 2
+      },
+      {
+        "category": "guest_houses",
+        "count": 2
+      },
+      {
+        "category": "other_burial_places",
+        "count": 1
+      },
+      {
+        "category": "burial_places",
+        "count": 2
+      },
+      {
+        "category": "pubs",
+        "count": 18
+      },
+      {
+        "category": "other",
+        "count": 3254
+      },
+      {
+        "category": "historic_object",
+        "count": 3250
+      },
+      {
+        "category": "unclassified_objects",
+        "count": 3250
+      },
+      {
+        "category": "theatres_and_entertainments",
+        "count": 45
+      },
+      {
+        "category": "other_theatres",
+        "count": 20
+      },
+      {
+        "category": "red_telephone_boxes",
+        "count": 4
+      },
+      {
+        "category": "cinemas",
+        "count": 25
+      },
+      {
+        "category": "destroyed_objects",
+        "count": 17
+      },
+      {
+        "category": "museums",
+        "count": 3
+      },
+      {
+        "category": "other_museums",
+        "count": 2
+      },
+      {
+        "category": "fast_food",
+        "count": 1
+      },
+      {
+        "category": "railway_stations",
+        "count": 6
+      },
+      {
+        "category": "industrial_facilities",
+        "count": 8
+      },
+      {
+        "category": "abandoned_railway_stations",
+        "count": 2
+      },
+      {
+        "category": "adult",
+        "count": 10
+      },
+      {
+        "category": "casino",
+        "count": 10
+      },
+      {
+        "category": "concert_halls",
+        "count": 3
+      },
+      {
+        "category": "cathedrals",
+        "count": 1
+      },
+      {
+        "category": "monasteries",
+        "count": 2794
+      },
+      {
+        "category": "other_bathhouses",
+        "count": 2
+      },
+      {
+        "category": "amusements",
+        "count": 2
+      },
+      {
+        "category": "baths_and_saunas",
+        "count": 2
+      },
+      {
+        "category": "archaeology",
+        "count": 2
+      },
+      {
+        "category": "settlements",
+        "count": 1
+      },
+      {
+        "category": "art_galleries",
+        "count": 1
+      },
+      {
+        "category": "cemeteries",
+        "count": 1
+      },
+      {
+        "category": "fortified_towers",
+        "count": 6669
+      },
+      {
+        "category": "installation",
+        "count": 1710
+      },
+      {
+        "category": "mills",
+        "count": 1
       }
     ]
   }

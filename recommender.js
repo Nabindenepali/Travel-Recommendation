@@ -146,19 +146,20 @@ function sortRecommendation (rec1, rec2) {
 }
 
 // Returns sorted recommendations for the given user
-function getRecommendationsForUser (user) {
+const getRecommendationsForUser = function(user) {
     const recommendations = [];
 
     attractions.forEach(function (attraction) {
         const score = (popularity(attraction) + interest(user, attraction)).toFixed(3);
         recommendations.push({
+            id: attraction.id,
             name: attraction.name,
             score: score
         });
     });
 
     return recommendations.sort(sortRecommendation);
-}
+};
 
 // Generate recommendations for an user with specified id
 function generateRecommendations (userId) {
@@ -173,10 +174,17 @@ function generateRecommendations (userId) {
     });
 }
 
-const userId = parseInt(process.argv[2]);
+if (process.argv[2]) {
+    const userId = parseInt(process.argv[2]);
 
-if (typeof userId === 'number') {
-    generateRecommendations(userId);
-} else {
-    console.log('Invalid argument for user id');
+    if (typeof userId === 'number') {
+        generateRecommendations(userId);
+    } else {
+        console.log('Invalid argument for user id');
+    }
 }
+
+module.exports = {
+    getRecommendationsForUser: getRecommendationsForUser,
+    getUser: getUser
+};

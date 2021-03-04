@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Michael",
+    "cities": [
+      {
+        "city_id": 11,
+        "visited_attractions": [1, 5, 6]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lionel",
+    "cities": [
+      {
+        "city_id": 11,
+        "visited_attractions": [1, 2, 3, 5, 8, 9]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Maria",
+    "cities": [
+      {
+        "city_id": 11,
+        "visited_attractions": [3, 4, 7]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Eugene",
+    "cities": [
+      {
+        "city_id": 11,
+        "visited_attractions": [1, 2, 4, 8]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Diana",
+    "cities": [
+      {
+        "city_id": 11,
+        "visited_attractions": [1, 2, 3, 4, 5, 6, 8, 10]
+      }
+    ]
+  }
+]

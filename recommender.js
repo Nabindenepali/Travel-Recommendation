@@ -173,4 +173,10 @@ function generateRecommendations (userId) {
     });
 }
 
-generateRecommendations(1);
+const userId = parseInt(process.argv[2]);
+
+if (typeof userId === 'number') {
+    generateRecommendations(userId);
+} else {
+    console.log('Invalid argument for user id');
+}

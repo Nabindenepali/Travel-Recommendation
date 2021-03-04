@@ -149,5 +149,609 @@
         ]
       }
     ]
+  },
+  {
+    "id": 2,
+    "name": "Lionel",
+    "cities": [
+      {
+        "city_id": 1,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 15
+          },
+          {
+            "category": "historic_districts",
+            "count": 18
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 22
+          },
+          {
+            "category": "other_temples",
+            "count": 12
+          },
+          {
+            "category": "cathedrals",
+            "count": 16
+          },
+          {
+            "category": "fortifications",
+            "count": 18
+          }
+        ]
+      },
+      {
+        "city_id": 2,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 21
+          },
+          {
+            "category": "historic_districts",
+            "count": 15
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 32
+          },
+          {
+            "category": "other_temples",
+            "count": 30
+          },
+          {
+            "category": "cathedrals",
+            "count": 28
+          },
+          {
+            "category": "fortifications",
+            "count": 6
+          }
+        ]
+      },
+      {
+        "city_id": 3,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 22
+          },
+          {
+            "category": "historic_districts",
+            "count": 15
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 23
+          },
+          {
+            "category": "other_temples",
+            "count": 30
+          },
+          {
+            "category": "cathedrals",
+            "count": 28
+          },
+          {
+            "category": "fortifications",
+            "count": 12
+          }
+        ]
+      },
+      {
+        "city_id": 4,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 31
+          },
+          {
+            "category": "historic_districts",
+            "count": 10
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 12
+          },
+          {
+            "category": "other_temples",
+            "count": 24
+          },
+          {
+            "category": "cathedrals",
+            "count": 12
+          },
+          {
+            "category": "fortifications",
+            "count": 32
+          }
+        ]
+      },
+      {
+        "city_id": 5,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 12
+          },
+          {
+            "category": "historic_districts",
+            "count": 40
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 60
+          },
+          {
+            "category": "other_temples",
+            "count": 5
+          },
+          {
+            "category": "cathedrals",
+            "count": 25
+          },
+          {
+            "category": "fortifications",
+            "count": 18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Maria",
+    "cities": [
+      {
+        "city_id": 1,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 20
+          },
+          {
+            "category": "historic_districts",
+            "count": 12
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 30
+          },
+          {
+            "category": "other_temples",
+            "count": 24
+          },
+          {
+            "category": "cathedrals",
+            "count": 15
+          },
+          {
+            "category": "fortifications",
+            "count": 12
+          }
+        ]
+      },
+      {
+        "city_id": 2,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 15
+          },
+          {
+            "category": "historic_districts",
+            "count": 18
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 35
+          },
+          {
+            "category": "other_temples",
+            "count": 25
+          },
+          {
+            "category": "cathedrals",
+            "count": 28
+          },
+          {
+            "category": "fortifications",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "city_id": 3,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 20
+          },
+          {
+            "category": "historic_districts",
+            "count": 12
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 24
+          },
+          {
+            "category": "other_temples",
+            "count": 20
+          },
+          {
+            "category": "cathedrals",
+            "count": 25
+          },
+          {
+            "category": "fortifications",
+            "count": 20
+          }
+        ]
+      },
+      {
+        "city_id": 4,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 25
+          },
+          {
+            "category": "historic_districts",
+            "count": 15
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 10
+          },
+          {
+            "category": "other_temples",
+            "count": 4
+          },
+          {
+            "category": "cathedrals",
+            "count": 20
+          },
+          {
+            "category": "fortifications",
+            "count": 26
+          }
+        ]
+      },
+      {
+        "city_id": 5,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 10
+          },
+          {
+            "category": "historic_districts",
+            "count": 30
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 42
+          },
+          {
+            "category": "other_temples",
+            "count": 20
+          },
+          {
+            "category": "cathedrals",
+            "count": 28
+          },
+          {
+            "category": "fortifications",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Eugene",
+    "cities": [
+      {
+        "city_id": 1,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 20
+          },
+          {
+            "category": "historic_districts",
+            "count": 15
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 25
+          },
+          {
+            "category": "other_temples",
+            "count": 30
+          },
+          {
+            "category": "cathedrals",
+            "count": 20
+          },
+          {
+            "category": "fortifications",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "city_id": 2,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 15
+          },
+          {
+            "category": "historic_districts",
+            "count": 18
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 35
+          },
+          {
+            "category": "other_temples",
+            "count": 25
+          },
+          {
+            "category": "cathedrals",
+            "count": 28
+          },
+          {
+            "category": "fortifications",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "city_id": 3,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 20
+          },
+          {
+            "category": "historic_districts",
+            "count": 12
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 24
+          },
+          {
+            "category": "other_temples",
+            "count": 20
+          },
+          {
+            "category": "cathedrals",
+            "count": 25
+          },
+          {
+            "category": "fortifications",
+            "count": 20
+          }
+        ]
+      },
+      {
+        "city_id": 4,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 25
+          },
+          {
+            "category": "historic_districts",
+            "count": 15
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 10
+          },
+          {
+            "category": "other_temples",
+            "count": 4
+          },
+          {
+            "category": "cathedrals",
+            "count": 20
+          },
+          {
+            "category": "fortifications",
+            "count": 26
+          }
+        ]
+      },
+      {
+        "city_id": 5,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 10
+          },
+          {
+            "category": "historic_districts",
+            "count": 30
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 42
+          },
+          {
+            "category": "other_temples",
+            "count": 20
+          },
+          {
+            "category": "cathedrals",
+            "count": 28
+          },
+          {
+            "category": "fortifications",
+            "count": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Diana",
+    "cities": [
+      {
+        "city_id": 1,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 20
+          },
+          {
+            "category": "historic_districts",
+            "count": 15
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 25
+          },
+          {
+            "category": "other_temples",
+            "count": 30
+          },
+          {
+            "category": "cathedrals",
+            "count": 20
+          },
+          {
+            "category": "fortifications",
+            "count": 15
+          }
+        ]
+      },
+      {
+        "city_id": 2,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 15
+          },
+          {
+            "category": "historic_districts",
+            "count": 18
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 35
+          },
+          {
+            "category": "other_temples",
+            "count": 25
+          },
+          {
+            "category": "cathedrals",
+            "count": 28
+          },
+          {
+            "category": "fortifications",
+            "count": 10
+          }
+        ]
+      },
+      {
+        "city_id": 3,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 20
+          },
+          {
+            "category": "historic_districts",
+            "count": 12
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 24
+          },
+          {
+            "category": "other_temples",
+            "count": 20
+          },
+          {
+            "category": "cathedrals",
+            "count": 25
+          },
+          {
+            "category": "fortifications",
+            "count": 20
+          }
+        ]
+      },
+      {
+        "city_id": 4,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 25
+          },
+          {
+            "category": "historic_districts",
+            "count": 15
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 10
+          },
+          {
+            "category": "other_temples",
+            "count": 4
+          },
+          {
+            "category": "cathedrals",
+            "count": 20
+          },
+          {
+            "category": "fortifications",
+            "count": 26
+          }
+        ]
+      },
+      {
+        "city_id": 5,
+        "visits": [
+          {
+            "category": "gardens_and_parks",
+            "count": 10
+          },
+          {
+            "category": "historic_districts",
+            "count": 30
+          },
+          {
+            "category": "other_buildings_and_structures",
+            "count": 42
+          },
+          {
+            "category": "other_temples",
+            "count": 20
+          },
+          {
+            "category": "cathedrals",
+            "count": 28
+          },
+          {
+            "category": "fortifications",
+            "count": 20
+          }
+        ]
+      }
+    ]
   }
 ]
